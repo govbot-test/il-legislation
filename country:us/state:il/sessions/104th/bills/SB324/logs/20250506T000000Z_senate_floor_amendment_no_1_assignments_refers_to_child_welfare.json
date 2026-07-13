@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Assignments Refers to Child Welfare",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=324&GAID=18&DocTypeID=SB&LegId=157808&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB324"
+}

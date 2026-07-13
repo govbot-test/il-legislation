@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Standard Debate - Passed 114-001-000",
+    "occurred_at": "2025-05-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2156&GAID=18&DocTypeID=SB&LegId=161842&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2156"
+}

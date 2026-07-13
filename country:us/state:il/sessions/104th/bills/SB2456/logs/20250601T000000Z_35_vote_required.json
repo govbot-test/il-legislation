@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "3/5 Vote Required",
+    "occurred_at": "2025-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2456&GAID=18&DocTypeID=SB&LegId=162537&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2456"
+}

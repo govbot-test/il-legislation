@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Financial Institutions & Licensing",
+  "motion_classification": [],
+  "start_date": "2026-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "94759764-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4537",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeLaRosa, Margaret A",
+      "voter_id": "~{\"name\": \"DeLaRosa, Margaret A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gong-Gershowitz, Jennifer",
+      "voter_id": "~{\"name\": \"Gong-Gershowitz, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Delgado, Eva-Dina",
+      "voter_id": "~{\"name\": \"Delgado, Eva-Dina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Gregg",
+      "voter_id": "~{\"name\": \"Johnson, Gregg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ugaste, Dan",
+      "voter_id": "~{\"name\": \"Ugaste, Dan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Croke, Margaret",
+      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4537_45543.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4537_45543.pdf"
+}

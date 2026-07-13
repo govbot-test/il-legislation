@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Jehan Gordon-Booth",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2435&GAID=18&DocTypeID=HB&LegId=160196&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2435"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Rita Mayfield",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4778&GAID=18&DocTypeID=HB&LegId=165927&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4778"
+}

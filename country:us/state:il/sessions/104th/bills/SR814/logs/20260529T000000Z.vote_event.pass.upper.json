@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Human Rights",
+  "motion_classification": [],
+  "start_date": "2026-05-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "eda24470-7f0c-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "SR814",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ellman, Laura",
+      "voter_id": "~{\"name\": \"Ellman, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzm\u00e1n, Graciela",
+      "voter_id": "~{\"name\": \"Guzm\\u00e1n, Graciela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lewis, Seth",
+      "voter_id": "~{\"name\": \"Lewis, Seth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ventura, Rachel",
+      "voter_id": "~{\"name\": \"Ventura, Rachel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walker, Mark L",
+      "voter_id": "~{\"name\": \"Walker, Mark L\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Collins, Lakesia",
+      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones III, Emil",
+      "voter_id": "~{\"name\": \"Jones III, Emil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rezin, Sue",
+      "voter_id": "~{\"name\": \"Rezin, Sue\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0814_47336.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0814_47336.pdf"
+}

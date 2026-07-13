@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Nicholas K. Smith",
+    "occurred_at": "2025-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=146&GAID=18&DocTypeID=HR&LegId=162814&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR146"
+}

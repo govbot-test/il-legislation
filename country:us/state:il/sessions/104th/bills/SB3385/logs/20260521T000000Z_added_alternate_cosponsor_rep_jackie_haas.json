@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Alternate Co-Sponsor Rep. Jackie Haas",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3385&GAID=18&DocTypeID=SB&LegId=166270&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3385"
+}

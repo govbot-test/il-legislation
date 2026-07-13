@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule 2-10 Committee/3rd Reading Deadline Established As May 15, 2026",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3879&GAID=18&DocTypeID=SB&LegId=167309&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3879"
+}

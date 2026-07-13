@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Tabled",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3541&GAID=18&DocTypeID=HB&LegId=162231&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3541"
+}

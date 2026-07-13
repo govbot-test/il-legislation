@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 2nd Reading April 29, 2025",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1538&GAID=18&DocTypeID=HB&LegId=157627&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1538"
+}

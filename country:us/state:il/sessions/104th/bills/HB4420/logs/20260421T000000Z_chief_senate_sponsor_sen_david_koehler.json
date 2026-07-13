@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief Senate Sponsor Sen. David Koehler",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4420&GAID=18&DocTypeID=HB&LegId=165094&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4420"
+}

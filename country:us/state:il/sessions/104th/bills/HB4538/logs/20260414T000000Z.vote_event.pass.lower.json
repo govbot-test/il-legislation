@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Consumer Protection, Amendment 3",
+  "motion_classification": [],
+  "start_date": "2026-04-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "958398ea-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4538",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gill, Mary",
+      "voter_id": "~{\"name\": \"Gill, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Evans Jr., Marcus C",
+      "voter_id": "~{\"name\": \"Evans Jr., Marcus C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mah, Theresa",
+      "voter_id": "~{\"name\": \"Mah, Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hammond, Norine K",
+      "voter_id": "~{\"name\": \"Hammond, Norine K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meyers-Martin, Debbie",
+      "voter_id": "~{\"name\": \"Meyers-Martin, Debbie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mayfield, Rita",
+      "voter_id": "~{\"name\": \"Mayfield, Rita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syed, Nabeela",
+      "voter_id": "~{\"name\": \"Syed, Nabeela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weber, Tom",
+      "voter_id": "~{\"name\": \"Weber, Tom\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4538HFA3_46285.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4538HFA3_46285.pdf"
+}

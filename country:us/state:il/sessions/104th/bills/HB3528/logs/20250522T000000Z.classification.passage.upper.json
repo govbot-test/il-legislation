@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Passed; 056-002-000",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3528&GAID=18&DocTypeID=HB&LegId=162218&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3528"
+}

@@ -1,0 +1,150 @@
+{
+  "identifier": "",
+  "motion_text": "Int Relations, Tourism, & Trade",
+  "motion_classification": [],
+  "start_date": "2026-05-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "8b0026a2-7f07-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HR787",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gill, Mary",
+      "voter_id": "~{\"name\": \"Gill, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elik, Amy",
+      "voter_id": "~{\"name\": \"Elik, Amy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Gregg",
+      "voter_id": "~{\"name\": \"Johnson, Gregg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelly, Michael J",
+      "voter_id": "~{\"name\": \"Kelly, Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scherer, Sue",
+      "voter_id": "~{\"name\": \"Scherer, Sue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan, Rick",
+      "voter_id": "~{\"name\": \"Ryan, Rick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Crespo, Fred",
+      "voter_id": "~{\"name\": \"Crespo, Fred\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Haas, Jackie",
+      "voter_id": "~{\"name\": \"Haas, Jackie\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Keicher, Jeff",
+      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Walsh Jr., Lawrence \"Larry\"",
+      "voter_id": "~{\"name\": \"Walsh Jr., Lawrence \\\"Larry\\\"\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0787_47058.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0787_47058.pdf"
+}

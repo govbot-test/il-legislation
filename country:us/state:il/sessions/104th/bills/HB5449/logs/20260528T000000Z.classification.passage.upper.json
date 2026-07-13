@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Passed; 058-001-000",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5449&GAID=18&DocTypeID=HB&LegId=167326&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5449"
+}

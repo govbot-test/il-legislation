@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule 3-9(a) / Re-referred to Assignments",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4669&GAID=18&DocTypeID=HB&LegId=165631&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4669"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 067-038-001",
+    "occurred_at": "2025-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1430&GAID=18&DocTypeID=HB&LegId=157433&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1430"
+}

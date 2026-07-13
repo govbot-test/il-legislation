@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 075-039-000",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1699&GAID=18&DocTypeID=HB&LegId=158788&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1699"
+}

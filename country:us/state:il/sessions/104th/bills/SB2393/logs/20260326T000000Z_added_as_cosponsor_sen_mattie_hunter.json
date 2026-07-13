@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added as Co-Sponsor Sen. Mattie Hunter",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2393&GAID=18&DocTypeID=SB&LegId=162406&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2393"
+}

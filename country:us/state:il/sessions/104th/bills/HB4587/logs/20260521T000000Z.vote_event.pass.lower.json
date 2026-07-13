@@ -1,0 +1,132 @@
+{
+  "identifier": "",
+  "motion_text": "Child Care Access & Early Childhood",
+  "motion_classification": [],
+  "start_date": "2026-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "a3050800-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4587",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Canty, Mary Beth",
+      "voter_id": "~{\"name\": \"Canty, Mary Beth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blair-Sherlock, Diane",
+      "voter_id": "~{\"name\": \"Blair-Sherlock, Diane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Evans Jr., Marcus C",
+      "voter_id": "~{\"name\": \"Evans Jr., Marcus C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faver Dias, Laura",
+      "voter_id": "~{\"name\": \"Faver Dias, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La Ha, Nicole",
+      "voter_id": "~{\"name\": \"La Ha, Nicole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hirschauer, Maura",
+      "voter_id": "~{\"name\": \"Hirschauer, Maura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meier, Charles",
+      "voter_id": "~{\"name\": \"Meier, Charles\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mason, Joyce",
+      "voter_id": "~{\"name\": \"Mason, Joyce\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schweizer, Brandun",
+      "voter_id": "~{\"name\": \"Schweizer, Brandun\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ort\u00edz, Aar\u00f3n M",
+      "voter_id": "~{\"name\": \"Ort\\u00edz, Aar\\u00f3n M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weber, Tom",
+      "voter_id": "~{\"name\": \"Weber, Tom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syed, Nabeela",
+      "voter_id": "~{\"name\": \"Syed, Nabeela\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Grant, Amy L",
+      "voter_id": "~{\"name\": \"Grant, Amy L\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4587SCA1_47183.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4587SCA1_47183.pdf"
+}

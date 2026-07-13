@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Executive Appointments;  on 01/03/2025 - and on 01/07/2025, Due to Sine Die of the 103rd General Assembly",
+    "occurred_at": "2025-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1030590&GAID=18&DocTypeID=AM&LegId=158122&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1030590"
+}

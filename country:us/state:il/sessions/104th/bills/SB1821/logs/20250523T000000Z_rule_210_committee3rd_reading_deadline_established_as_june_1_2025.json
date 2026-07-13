@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule 2-10 Committee/3rd Reading Deadline Established As June 1, 2025",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1821&GAID=18&DocTypeID=SB&LegId=160970&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1821"
+}

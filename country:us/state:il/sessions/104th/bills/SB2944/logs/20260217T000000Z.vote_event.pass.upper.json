@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Health and Human Services",
+  "motion_classification": [],
+  "start_date": "2026-02-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "fdcedc5c-7f0a-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "SB2944",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arellano Jr., Li",
+      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Adriane",
+      "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Edly-Allen, Mary",
+      "voter_id": "~{\"name\": \"Edly-Allen, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Koehler, David",
+      "voter_id": "~{\"name\": \"Koehler, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Plummer, Jason",
+      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morrison, Julie A",
+      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syverson, Dave",
+      "voter_id": "~{\"name\": \"Syverson, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sims Jr., Elgie R",
+      "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner, Doris",
+      "voter_id": "~{\"name\": \"Turner, Doris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Villa, Karina",
+      "voter_id": "~{\"name\": \"Villa, Karina\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2944_44959.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2944_44959.pdf"
+}

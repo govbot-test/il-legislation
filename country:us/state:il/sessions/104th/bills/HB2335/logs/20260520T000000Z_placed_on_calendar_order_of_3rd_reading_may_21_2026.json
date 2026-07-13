@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 3rd Reading May 21, 2026",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2335&GAID=18&DocTypeID=HB&LegId=159986&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2335"
+}

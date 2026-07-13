@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Chief Co-Sponsor Rep. Abdelnasser Rashid",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=166&GAID=18&DocTypeID=HR&LegId=163138&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR166"
+}

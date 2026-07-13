@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Filed - Table Bill/Resolution Pursuant to Rule 60(b), Rep. Jaime M. Andrade, Jr.",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4276&GAID=18&DocTypeID=HB&LegId=164771&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4276"
+}

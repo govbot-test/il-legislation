@@ -1,0 +1,126 @@
+{
+  "identifier": "",
+  "motion_text": "Prescription Drug Affordability",
+  "motion_classification": [],
+  "start_date": "2026-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "f8b2e1fa-7f0a-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "SB2921",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cochran, Justin",
+      "voter_id": "~{\"name\": \"Cochran, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grasse, Nicolle",
+      "voter_id": "~{\"name\": \"Grasse, Nicolle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gill, Mary",
+      "voter_id": "~{\"name\": \"Gill, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hauter, William E",
+      "voter_id": "~{\"name\": \"Hauter, William E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haas, Jackie",
+      "voter_id": "~{\"name\": \"Haas, Jackie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacobs, Paul",
+      "voter_id": "~{\"name\": \"Jacobs, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sanalitro, Jennifer",
+      "voter_id": "~{\"name\": \"Sanalitro, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith, Nicholas K",
+      "voter_id": "~{\"name\": \"Smith, Nicholas K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schmidt, Kevin",
+      "voter_id": "~{\"name\": \"Schmidt, Kevin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams, Jawaharial",
+      "voter_id": "~{\"name\": \"Williams, Jawaharial\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2921_46794.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2921_46794.pdf"
+}

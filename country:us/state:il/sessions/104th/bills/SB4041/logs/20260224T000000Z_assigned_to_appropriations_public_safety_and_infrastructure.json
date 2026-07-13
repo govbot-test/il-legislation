@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Appropriations- Public Safety and Infrastructure",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4041&GAID=18&DocTypeID=SB&LegId=167618&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB4041"
+}

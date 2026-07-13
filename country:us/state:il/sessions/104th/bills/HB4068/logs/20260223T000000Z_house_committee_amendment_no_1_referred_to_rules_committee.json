@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Referred to Rules Committee",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4068&GAID=18&DocTypeID=HB&LegId=163899&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4068"
+}

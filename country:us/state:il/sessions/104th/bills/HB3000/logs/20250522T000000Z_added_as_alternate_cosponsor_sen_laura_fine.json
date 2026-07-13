@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added as Alternate Co-Sponsor Sen. Laura Fine",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3000&GAID=18&DocTypeID=HB&LegId=161265&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3000"
+}

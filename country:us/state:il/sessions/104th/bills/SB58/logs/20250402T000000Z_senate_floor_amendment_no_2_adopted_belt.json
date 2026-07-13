@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Adopted; Belt",
+    "occurred_at": "2025-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=58&GAID=18&DocTypeID=SB&LegId=157163&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB58"
+}

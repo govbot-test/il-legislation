@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools",
+    "occurred_at": "2025-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=62&GAID=18&DocTypeID=HR&LegId=158629&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR62"
+}

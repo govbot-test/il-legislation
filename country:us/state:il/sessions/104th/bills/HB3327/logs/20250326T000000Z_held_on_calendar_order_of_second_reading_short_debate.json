@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Held on Calendar Order of Second Reading - Short Debate",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3327&GAID=18&DocTypeID=HB&LegId=161817&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3327"
+}

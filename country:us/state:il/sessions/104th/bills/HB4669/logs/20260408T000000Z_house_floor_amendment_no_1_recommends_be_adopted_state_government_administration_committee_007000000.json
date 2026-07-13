@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Recommends Be Adopted State Government Administration Committee;  007-000-000",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4669&GAID=18&DocTypeID=HB&LegId=165631&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4669"
+}

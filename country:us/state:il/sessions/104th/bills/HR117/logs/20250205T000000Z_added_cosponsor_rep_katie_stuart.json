@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Katie Stuart",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=117&GAID=18&DocTypeID=HR&LegId=160919&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR117"
+}

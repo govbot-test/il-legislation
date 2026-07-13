@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Referred to Rules Committee",
+    "occurred_at": "2025-10-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=767&GAID=18&DocTypeID=HB&LegId=156445&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB767"
+}

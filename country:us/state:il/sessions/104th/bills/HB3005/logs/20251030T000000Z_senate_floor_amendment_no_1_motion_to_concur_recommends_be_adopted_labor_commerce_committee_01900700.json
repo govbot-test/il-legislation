@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Motion to Concur Recommends Be Adopted Labor & Commerce Committee;  019-007-000",
+    "occurred_at": "2025-10-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3005&GAID=18&DocTypeID=HB&LegId=161271&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3005"
+}

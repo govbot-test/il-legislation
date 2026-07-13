@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Travis Weaver",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3009&GAID=18&DocTypeID=HB&LegId=161275&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3009"
+}

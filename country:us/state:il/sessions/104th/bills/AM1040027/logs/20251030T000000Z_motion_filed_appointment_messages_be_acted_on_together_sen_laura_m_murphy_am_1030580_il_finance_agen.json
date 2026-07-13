@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Filed Appointment Messages Be Acted on Together ** Sen. Laura M. Murphy;  AM 1030580 (IL Finance Agency)\r\nAM 1030583 (Guardianship and Advocacy Comm)\r\nAM 1030584 (IL Community College Board)\r\nAM 1030585 (SW IL Development Authority)\r\nAM 1030586 (SW Regional Port District Board)\r\nAM 1030589 (IL Workforce Innovation Board)\r\nAM 1040014 (State Board of Health)\r\nAM 1040017(Abe Linc Pres Lib and Mus Brd of Tr)\r\nAM 1040018 (Energy Workforce Adv Council)\r\nAM 1040019 (Firefighters Pension Investment Fund)\r\nAM 1040022(CMW Int Lw Lvl Radioact Wste Com)\r\nAM 1040027 (Mid IL Medical District)\r\nAM 1040066 (NIU Board of Trustees)\r\nAM 1040070 (Comm on Disc and Hate Crimes)\r\nAM 1040071 (EIU Board of Trustees)\r\nAM 1040073 (Employment Sec Adv Board)\r\nAM 1040074 (Employment Sec Adv Board)\r\nAM 1040075 (GSU Board of Trustees)\r\nAM 1040076 (IL Criminal Justice Info Authority)\r\nAM 1040077 (IL Criminal Justice Info Authority)\r\nAM 1040078 (IL Housing Development Authority)\r\nAM 1040079 (NIU Board of Trustees)\r\nAM 1040080 (Quality Care Board)\r\nAM 1040081 (U of I Board of Trustees)\r\nAM 1040082 (WIU Board of Trustees)\r\nAM 1040083 (State Board of Education)\r\nAM 1040085 (Employment Sec Adv Board)\r\nAM 1040089 (Employment Sec Adv Board)\r\nAM 1040090 (Employment Sec Adv Board)\r\nAM 1040091 (Labor Adv Board)\r\nAM 1040095 (GSU Board of Trustees)\r\nAM 1040096 (GSU Board of Trustees)\r\nAM 1040098 (EIU Board of Trustees)\r\nAM 1040099 (Employment Sec Adv Board)\r\nAM 1040100 (SIU Board of Trustees)\r\nAM 1040101 (IL Health Ben Exchange Adv Comm)\r\nAM 1040102 (IL Health Ben Exchange Adv Comm)\r\nAM 1040146 (GSU Board of Trustees)\r\nAM 1040150 (Comm on Discrim and Hate Crimes)\r\nAM 1040151 (NIU Board of Trustees)\r\nAM 1040152 (SIU Board of Trustees)",
+    "occurred_at": "2025-10-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040027&GAID=18&DocTypeID=AM&LegId=159392&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1040027"
+}

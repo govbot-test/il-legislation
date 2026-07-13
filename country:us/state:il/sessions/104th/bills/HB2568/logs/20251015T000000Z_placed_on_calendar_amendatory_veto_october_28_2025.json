@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Amendatory Veto October 28, 2025",
+    "occurred_at": "2025-10-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2568&GAID=18&DocTypeID=HB&LegId=160438&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2568"
+}

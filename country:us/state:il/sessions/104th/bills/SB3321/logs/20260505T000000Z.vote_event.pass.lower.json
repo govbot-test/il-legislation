@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Financial Institutions & Licensing",
+  "motion_classification": [],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "6590cfd0-7f0b-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "SB3321",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cochran, Justin",
+      "voter_id": "~{\"name\": \"Cochran, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gill, Mary",
+      "voter_id": "~{\"name\": \"Gill, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ugaste, Dan",
+      "voter_id": "~{\"name\": \"Ugaste, Dan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Mayfield, Rita",
+      "voter_id": "~{\"name\": \"Mayfield, Rita\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB3321_46620.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB3321_46620.pdf"
+}

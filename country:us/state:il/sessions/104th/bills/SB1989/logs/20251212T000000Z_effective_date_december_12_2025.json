@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Effective Date December 12, 2025",
+    "occurred_at": "2025-12-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1989&GAID=18&DocTypeID=SB&LegId=161383&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1989"
+}

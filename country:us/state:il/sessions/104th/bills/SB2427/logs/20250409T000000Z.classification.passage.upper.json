@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Passed; 055-000-000",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2427&GAID=18&DocTypeID=SB&LegId=162470&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2427"
+}

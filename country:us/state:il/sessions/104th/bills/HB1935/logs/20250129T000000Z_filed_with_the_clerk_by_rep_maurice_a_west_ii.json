@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Maurice A. West, II",
+    "occurred_at": "2025-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1935&GAID=18&DocTypeID=HB&LegId=159570&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1935"
+}

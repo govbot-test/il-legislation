@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "First Reading",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5416&GAID=18&DocTypeID=HB&LegId=167228&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5416"
+}

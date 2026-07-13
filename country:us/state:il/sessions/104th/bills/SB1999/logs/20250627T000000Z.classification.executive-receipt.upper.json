@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2025-06-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1999&GAID=18&DocTypeID=SB&LegId=161402&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1999"
+}

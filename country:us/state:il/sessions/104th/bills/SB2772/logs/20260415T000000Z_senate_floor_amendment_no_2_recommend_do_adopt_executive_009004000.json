@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Recommend Do Adopt Executive;  009-004-000",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2772&GAID=18&DocTypeID=SB&LegId=164750&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2772"
+}

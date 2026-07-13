@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Behavioral and Mental Health",
+  "motion_classification": [],
+  "start_date": "2026-03-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "d719c33c-7f0b-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "SB3722",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Belt, Christopher",
+      "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryant, Terri",
+      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Collins, Lakesia",
+      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Loughran Cappel, Meg",
+      "voter_id": "~{\"name\": \"Loughran Cappel, Meg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Feigenholtz, Sara",
+      "voter_id": "~{\"name\": \"Feigenholtz, Sara\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Villa, Karina",
+      "voter_id": "~{\"name\": \"Villa, Karina\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB3722_45388.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB3722_45388.pdf"
+}

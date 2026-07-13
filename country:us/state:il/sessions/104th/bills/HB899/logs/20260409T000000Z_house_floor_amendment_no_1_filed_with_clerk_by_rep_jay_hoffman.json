@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Jay Hoffman",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=899&GAID=18&DocTypeID=HB&LegId=156577&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB899"
+}

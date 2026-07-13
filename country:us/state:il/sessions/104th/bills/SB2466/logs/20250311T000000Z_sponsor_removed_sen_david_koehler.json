@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sponsor Removed Sen. David Koehler",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2466&GAID=18&DocTypeID=SB&LegId=162555&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2466"
+}

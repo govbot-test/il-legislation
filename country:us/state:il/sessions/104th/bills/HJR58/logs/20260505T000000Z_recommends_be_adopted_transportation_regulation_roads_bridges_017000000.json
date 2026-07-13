@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Transportation: Regulation, Roads & Bridges;  017-000-000",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=58&GAID=18&DocTypeID=HJR&LegId=168169&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR58"
+}

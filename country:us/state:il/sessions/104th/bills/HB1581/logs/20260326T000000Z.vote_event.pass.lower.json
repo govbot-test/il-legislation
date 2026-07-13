@@ -1,0 +1,156 @@
+{
+  "identifier": "",
+  "motion_text": "Approp-Higher Education",
+  "motion_classification": [],
+  "start_date": "2026-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "6e040064-7f02-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB1581",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Briel, Amy",
+      "voter_id": "~{\"name\": \"Briel, Amy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ammons, Carol",
+      "voter_id": "~{\"name\": \"Ammons, Carol\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chung, Sharon",
+      "voter_id": "~{\"name\": \"Chung, Sharon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ford, La Shawn K",
+      "voter_id": "~{\"name\": \"Ford, La Shawn K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Du Buclet, Kimberly",
+      "voter_id": "~{\"name\": \"Du Buclet, Kimberly\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
+      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mah, Theresa",
+      "voter_id": "~{\"name\": \"Mah, Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meyers-Martin, Debbie",
+      "voter_id": "~{\"name\": \"Meyers-Martin, Debbie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stuart, Katie",
+      "voter_id": "~{\"name\": \"Stuart, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jacobs, Paul",
+      "voter_id": "~{\"name\": \"Jacobs, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Severin, Dave",
+      "voter_id": "~{\"name\": \"Severin, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Schweizer, Brandun",
+      "voter_id": "~{\"name\": \"Schweizer, Brandun\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Miller, Chris",
+      "voter_id": "~{\"name\": \"Miller, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Swanson, Dan",
+      "voter_id": "~{\"name\": \"Swanson, Dan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1581_46058.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1581_46058.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 3 Senate Concurs 057-000-000",
+    "occurred_at": "2025-10-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=90&GAID=18&DocTypeID=SB&LegId=157207&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB90"
+}

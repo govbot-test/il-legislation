@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Filed with Clerk by Rep. Sonya M. Harper",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=26&GAID=18&DocTypeID=HJR&LegId=163473&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR26"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Health Care Licenses Committee",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3445&GAID=18&DocTypeID=SB&LegId=166393&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3445"
+}

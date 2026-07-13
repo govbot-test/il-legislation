@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Do Pass as Amended Higher Education;  012-000-000",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3522&GAID=18&DocTypeID=HB&LegId=162210&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3522"
+}

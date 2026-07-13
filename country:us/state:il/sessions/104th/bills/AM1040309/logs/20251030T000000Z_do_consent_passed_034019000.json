@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Do Consent Passed 034-019-000",
+    "occurred_at": "2025-10-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040309&GAID=18&DocTypeID=AM&LegId=164375&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1040309"
+}

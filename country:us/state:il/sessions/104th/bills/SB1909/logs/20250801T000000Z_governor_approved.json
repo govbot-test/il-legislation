@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor Approved",
+    "occurred_at": "2025-08-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1909&GAID=18&DocTypeID=SB&LegId=161195&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1909"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Rules Committee",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2884&GAID=18&DocTypeID=HB&LegId=161080&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2884"
+}

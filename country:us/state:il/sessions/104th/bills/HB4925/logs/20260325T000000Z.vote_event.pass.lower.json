@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Transportation: Vehicles & Safety",
+  "motion_classification": [],
+  "start_date": "2026-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "fe607aae-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4925",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cochran, Justin",
+      "voter_id": "~{\"name\": \"Cochran, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrade Jr., Jaime M",
+      "voter_id": "~{\"name\": \"Andrade Jr., Jaime M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deering, Regan",
+      "voter_id": "~{\"name\": \"Deering, Regan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Croke, Margaret",
+      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fritts, Bradley",
+      "voter_id": "~{\"name\": \"Fritts, Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hanson, Matt",
+      "voter_id": "~{\"name\": \"Hanson, Matt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guerrero-Cuellar, Angelica",
+      "voter_id": "~{\"name\": \"Guerrero-Cuellar, Angelica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4925_45885.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4925_45885.pdf"
+}

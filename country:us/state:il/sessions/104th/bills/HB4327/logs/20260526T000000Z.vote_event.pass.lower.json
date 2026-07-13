@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Executive",
+  "motion_classification": [],
+  "start_date": "2026-05-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "5a3aa76a-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4327",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Guzzardi, Will",
+      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gordon-Booth, Jehan",
+      "voter_id": "~{\"name\": \"Gordon-Booth, Jehan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lilly, Camille Y",
+      "voter_id": "~{\"name\": \"Lilly, Camille Y\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mah, Theresa",
+      "voter_id": "~{\"name\": \"Mah, Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rita, Robert \"Bob\"",
+      "voter_id": "~{\"name\": \"Rita, Robert \\\"Bob\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams, Ann M",
+      "voter_id": "~{\"name\": \"Williams, Ann M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cabello, John M",
+      "voter_id": "~{\"name\": \"Cabello, John M\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hammond, Norine K",
+      "voter_id": "~{\"name\": \"Hammond, Norine K\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4327_47210.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4327_47210.pdf"
+}

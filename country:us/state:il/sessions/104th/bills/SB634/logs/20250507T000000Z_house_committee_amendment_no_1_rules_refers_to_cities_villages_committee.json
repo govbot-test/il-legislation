@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Rules Refers to Cities & Villages Committee",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=634&GAID=18&DocTypeID=SB&LegId=158332&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB634"
+}

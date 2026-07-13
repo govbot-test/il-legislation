@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Ethics & Elections",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5114&GAID=18&DocTypeID=HB&LegId=166683&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5114"
+}

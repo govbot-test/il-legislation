@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. David Friess",
+    "occurred_at": "2025-01-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1210&GAID=18&DocTypeID=HB&LegId=157000&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1210"
+}

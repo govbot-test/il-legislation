@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Public Health",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=757&GAID=18&DocTypeID=SR&LegId=168411&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR757"
+}

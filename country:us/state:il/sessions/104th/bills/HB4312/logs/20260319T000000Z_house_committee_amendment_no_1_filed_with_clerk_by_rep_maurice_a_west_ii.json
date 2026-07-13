@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Filed with Clerk by Rep. Maurice A. West, II",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4312&GAID=18&DocTypeID=HB&LegId=164824&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4312"
+}

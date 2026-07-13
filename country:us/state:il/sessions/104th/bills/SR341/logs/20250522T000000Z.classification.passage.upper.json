@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution Adopted",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=341&GAID=18&DocTypeID=SR&LegId=163862&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR341"
+}

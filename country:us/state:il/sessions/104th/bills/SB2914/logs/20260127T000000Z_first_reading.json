@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "First Reading",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2914&GAID=18&DocTypeID=SB&LegId=165276&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2914"
+}

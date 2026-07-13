@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Passed; 055-000-000",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3401&GAID=18&DocTypeID=SB&LegId=166328&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3401"
+}

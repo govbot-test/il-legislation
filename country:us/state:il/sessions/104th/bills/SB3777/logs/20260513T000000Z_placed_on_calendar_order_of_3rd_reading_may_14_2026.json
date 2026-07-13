@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 3rd Reading May 14, 2026",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3777&GAID=18&DocTypeID=SB&LegId=167092&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3777"
+}

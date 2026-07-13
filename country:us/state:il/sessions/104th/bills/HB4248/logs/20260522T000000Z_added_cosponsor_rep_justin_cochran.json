@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Justin Cochran",
+    "occurred_at": "2026-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4248&GAID=18&DocTypeID=HB&LegId=164720&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4248"
+}

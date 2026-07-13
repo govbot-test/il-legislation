@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Placed on Calendar 2nd Reading - Short Debate",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1461&GAID=18&DocTypeID=HB&LegId=157514&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1461"
+}

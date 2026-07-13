@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 3 Adopted; Villivalam",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2253&GAID=18&DocTypeID=SB&LegId=162020&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2253"
+}

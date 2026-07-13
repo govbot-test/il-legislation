@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Executive",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=592&GAID=18&DocTypeID=SB&LegId=158290&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB592"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Directed to Multiple Committees Re-assigned to Judiciary then to Appropriations- Health & Human Services",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1820&GAID=18&DocTypeID=SB&LegId=160969&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1820"
+}

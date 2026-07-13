@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4423&GAID=18&DocTypeID=HB&LegId=165109&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4423"
+}

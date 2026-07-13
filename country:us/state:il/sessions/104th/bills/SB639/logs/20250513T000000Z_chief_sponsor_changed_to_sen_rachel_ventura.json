@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief Sponsor Changed to Sen. Rachel Ventura",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=639&GAID=18&DocTypeID=SB&LegId=158337&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB639"
+}

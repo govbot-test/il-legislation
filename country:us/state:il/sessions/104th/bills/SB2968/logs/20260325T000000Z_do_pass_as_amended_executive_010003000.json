@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Do Pass as Amended Executive;  010-003-000",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2968&GAID=18&DocTypeID=SB&LegId=165400&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2968"
+}

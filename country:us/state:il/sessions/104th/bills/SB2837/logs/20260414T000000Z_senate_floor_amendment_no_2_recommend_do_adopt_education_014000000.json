@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Recommend Do Adopt Education;  014-000-000",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2837&GAID=18&DocTypeID=SB&LegId=165038&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2837"
+}

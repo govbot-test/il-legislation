@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Ethics & Elections",
+    "occurred_at": "2025-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=20&GAID=18&DocTypeID=HB&LegId=155676&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB20"
+}

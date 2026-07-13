@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Filed with Clerk by Rep. Michelle Mussman",
+    "occurred_at": "2025-03-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2537&GAID=18&DocTypeID=HB&LegId=160381&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2537"
+}

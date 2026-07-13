@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2026-06-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4418&GAID=18&DocTypeID=HB&LegId=165082&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4418"
+}

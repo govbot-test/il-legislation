@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added as Co-Sponsor Sen. Laura Fine",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1314&GAID=18&DocTypeID=SB&LegId=159255&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1314"
+}

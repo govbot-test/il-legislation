@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Arrive in Senate",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5020&GAID=18&DocTypeID=HB&LegId=166459&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5020"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Sonya M. Harper",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4339&GAID=18&DocTypeID=HB&LegId=164865&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4339"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief House Sponsor Rep. Emanuel \"Chris\" Welch",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=807&GAID=18&DocTypeID=SB&LegId=158518&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB807"
+}

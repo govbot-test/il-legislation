@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Senate Concurs 057-000-000",
+    "occurred_at": "2026-05-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3322&GAID=18&DocTypeID=SB&LegId=166127&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3322"
+}

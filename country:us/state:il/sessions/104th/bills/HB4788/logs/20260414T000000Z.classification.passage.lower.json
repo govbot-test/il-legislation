@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 073-038-000",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4788&GAID=18&DocTypeID=HB&LegId=165943&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4788"
+}

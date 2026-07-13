@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Economic Opportunity & Equity",
+  "motion_classification": [],
+  "start_date": "2026-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "5bebf694-7f06-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB5263",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Avelar, Dagmara",
+      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chung, Sharon",
+      "voter_id": "~{\"name\": \"Chung, Sharon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzzardi, Will",
+      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith, Nicholas K",
+      "voter_id": "~{\"name\": \"Smith, Nicholas K\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Deering, Regan",
+      "voter_id": "~{\"name\": \"Deering, Regan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Miller, Chris",
+      "voter_id": "~{\"name\": \"Miller, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ammons, Carol",
+      "voter_id": "~{\"name\": \"Ammons, Carol\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB5263_45941.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB5263_45941.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Motion Filed Concur Rep. Lilian Jim\u00e9nez",
+    "occurred_at": "2025-05-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1631&GAID=18&DocTypeID=HB&LegId=158351&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1631"
+}

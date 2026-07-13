@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Motion to Concur Assignments Referred to Health and Human Services",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3967&GAID=18&DocTypeID=SB&LegId=167461&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3967"
+}

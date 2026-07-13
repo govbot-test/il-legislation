@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Referred to Rules Committee",
+    "occurred_at": "2025-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1947&GAID=18&DocTypeID=SB&LegId=161295&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1947"
+}

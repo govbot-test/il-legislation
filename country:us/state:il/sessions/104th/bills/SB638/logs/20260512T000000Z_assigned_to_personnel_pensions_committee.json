@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Personnel & Pensions Committee",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=638&GAID=18&DocTypeID=SB&LegId=158336&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB638"
+}

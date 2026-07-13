@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Do Pass / Short Debate Executive Committee;  012-000-000",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=348&GAID=18&DocTypeID=HB&LegId=156025&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB348"
+}

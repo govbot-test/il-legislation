@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Police & Fire Committee",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1491&GAID=18&DocTypeID=SB&LegId=160063&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1491"
+}

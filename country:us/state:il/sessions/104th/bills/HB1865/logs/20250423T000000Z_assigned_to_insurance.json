@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Insurance",
+    "occurred_at": "2025-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1865&GAID=18&DocTypeID=HB&LegId=159435&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1865"
+}

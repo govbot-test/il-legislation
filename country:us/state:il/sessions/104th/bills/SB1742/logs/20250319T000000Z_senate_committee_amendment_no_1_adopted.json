@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Adopted",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1742&GAID=18&DocTypeID=SB&LegId=160806&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1742"
+}

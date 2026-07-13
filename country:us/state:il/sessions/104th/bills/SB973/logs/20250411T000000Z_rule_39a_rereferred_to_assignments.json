@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule 3-9(a) / Re-referred to Assignments",
+    "occurred_at": "2025-04-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=973&GAID=18&DocTypeID=SB&LegId=158706&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB973"
+}

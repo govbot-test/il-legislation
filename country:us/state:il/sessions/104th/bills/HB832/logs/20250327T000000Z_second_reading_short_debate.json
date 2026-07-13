@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Second Reading - Short Debate",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=832&GAID=18&DocTypeID=HB&LegId=156510&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB832"
+}

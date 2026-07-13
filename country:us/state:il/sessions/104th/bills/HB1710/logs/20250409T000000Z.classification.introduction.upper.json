@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Arrive in Senate",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1710&GAID=18&DocTypeID=HB&LegId=158826&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1710"
+}

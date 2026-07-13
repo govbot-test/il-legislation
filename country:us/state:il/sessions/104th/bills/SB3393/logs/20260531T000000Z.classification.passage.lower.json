@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 086-030-001",
+    "occurred_at": "2026-05-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3393&GAID=18&DocTypeID=SB&LegId=166313&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3393"
+}

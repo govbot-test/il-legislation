@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommends Be Adopted Agriculture & Conservation Committee;  008-000-000",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=580&GAID=18&DocTypeID=HR&LegId=164680&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR580"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 109-000-000",
+    "occurred_at": "2025-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2418&GAID=18&DocTypeID=HB&LegId=160169&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2418"
+}

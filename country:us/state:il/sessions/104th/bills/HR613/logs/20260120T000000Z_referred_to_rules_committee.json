@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Rules Committee",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=613&GAID=18&DocTypeID=HR&LegId=165239&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR613"
+}

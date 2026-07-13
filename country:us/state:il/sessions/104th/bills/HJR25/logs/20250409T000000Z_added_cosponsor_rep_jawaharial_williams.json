@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Jawaharial Williams",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=25&GAID=18&DocTypeID=HJR&LegId=163303&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR25"
+}

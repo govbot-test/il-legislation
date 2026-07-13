@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to Assignments",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3909&GAID=18&DocTypeID=SB&LegId=167365&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3909"
+}

@@ -1,0 +1,156 @@
+{
+  "identifier": "",
+  "motion_text": "Ethics & Elections",
+  "motion_classification": [],
+  "start_date": "2026-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "5d93061e-7f05-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB4339",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Ammons, Carol",
+      "voter_id": "~{\"name\": \"Ammons, Carol\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Du Buclet, Kimberly",
+      "voter_id": "~{\"name\": \"Du Buclet, Kimberly\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elik, Amy",
+      "voter_id": "~{\"name\": \"Elik, Amy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzzardi, Will",
+      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grant, Amy L",
+      "voter_id": "~{\"name\": \"Grant, Amy L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katz Muhl, Tracy",
+      "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacobs, Paul",
+      "voter_id": "~{\"name\": \"Jacobs, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rita, Robert \"Bob\"",
+      "voter_id": "~{\"name\": \"Rita, Robert \\\"Bob\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheehan, Patrick",
+      "voter_id": "~{\"name\": \"Sheehan, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schmidt, Kevin",
+      "voter_id": "~{\"name\": \"Schmidt, Kevin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarver II, Curtis J",
+      "voter_id": "~{\"name\": \"Tarver II, Curtis J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stuart, Katie",
+      "voter_id": "~{\"name\": \"Stuart, Katie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Windhorst, Patrick",
+      "voter_id": "~{\"name\": \"Windhorst, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Buckner, Kam",
+      "voter_id": "~{\"name\": \"Buckner, Kam\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4339_45531.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB4339_45531.pdf"
+}

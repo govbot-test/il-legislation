@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Filed to Suspend Rule 21 Rules Committee;  Rep. Bob Morgan",
+    "occurred_at": "2025-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1733&GAID=18&DocTypeID=HB&LegId=158991&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1733"
+}

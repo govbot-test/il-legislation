@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Assignments Refers to Appropriations",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1851&GAID=18&DocTypeID=SB&LegId=161011&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1851"
+}

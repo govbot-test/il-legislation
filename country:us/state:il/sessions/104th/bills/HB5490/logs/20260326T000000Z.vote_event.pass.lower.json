@@ -1,0 +1,186 @@
+{
+  "identifier": "",
+  "motion_text": "Approp-Health and Human Services",
+  "motion_classification": [],
+  "start_date": "2026-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "9b566008-7f06-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB5490",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cochran, Justin",
+      "voter_id": "~{\"name\": \"Cochran, Justin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim\u00e9nez, Lilian",
+      "voter_id": "~{\"name\": \"Jim\\u00e9nez, Lilian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Norma",
+      "voter_id": "~{\"name\": \"Hernandez, Norma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moeller, Anna",
+      "voter_id": "~{\"name\": \"Moeller, Anna\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lilly, Camille Y",
+      "voter_id": "~{\"name\": \"Lilly, Camille Y\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris, Yolonda",
+      "voter_id": "~{\"name\": \"Morris, Yolonda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Swanson, Dan",
+      "voter_id": "~{\"name\": \"Swanson, Dan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Syed, Nabeela",
+      "voter_id": "~{\"name\": \"Syed, Nabeela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Weber, Tom",
+      "voter_id": "~{\"name\": \"Weber, Tom\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Bunting, Jason R",
+      "voter_id": "~{\"name\": \"Bunting, Jason R\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davis, Jed",
+      "voter_id": "~{\"name\": \"Davis, Jed\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Grant, Amy L",
+      "voter_id": "~{\"name\": \"Grant, Amy L\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hauter, William E",
+      "voter_id": "~{\"name\": \"Hauter, William E\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Halbrook, Brad",
+      "voter_id": "~{\"name\": \"Halbrook, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Katz Muhl, Tracy",
+      "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson, Gregg",
+      "voter_id": "~{\"name\": \"Johnson, Gregg\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB5490_46064.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB5490_46064.pdf"
+}

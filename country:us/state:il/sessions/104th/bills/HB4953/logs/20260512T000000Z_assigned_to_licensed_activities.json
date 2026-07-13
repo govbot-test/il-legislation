@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Licensed Activities",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4953&GAID=18&DocTypeID=HB&LegId=166305&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4953"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Motion to Concur Referred to Health Care Licenses Committee",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1807&GAID=18&DocTypeID=HB&LegId=159239&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1807"
+}

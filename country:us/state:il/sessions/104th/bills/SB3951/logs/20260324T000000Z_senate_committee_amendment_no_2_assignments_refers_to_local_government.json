@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 2 Assignments Refers to Local Government",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3951&GAID=18&DocTypeID=SB&LegId=167431&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3951"
+}

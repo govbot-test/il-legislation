@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "To Paid Leave",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2335&GAID=18&DocTypeID=SB&LegId=162214&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2335"
+}

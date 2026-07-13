@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recalled to Second Reading",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3116&GAID=18&DocTypeID=SB&LegId=165745&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3116"
+}

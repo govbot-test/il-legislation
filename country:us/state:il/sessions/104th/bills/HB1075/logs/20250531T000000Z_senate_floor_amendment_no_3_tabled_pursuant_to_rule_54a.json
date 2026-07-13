@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 3 Tabled Pursuant to Rule 5-4-(a)",
+    "occurred_at": "2025-05-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1075&GAID=18&DocTypeID=HB&LegId=156769&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1075"
+}

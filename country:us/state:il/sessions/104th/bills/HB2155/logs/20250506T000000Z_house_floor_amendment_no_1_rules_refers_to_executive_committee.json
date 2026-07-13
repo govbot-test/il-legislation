@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Rules Refers to Executive Committee",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2155&GAID=18&DocTypeID=HB&LegId=159803&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2155"
+}

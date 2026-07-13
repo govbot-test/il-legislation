@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of Executive Appointments",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1030456&GAID=18&DocTypeID=AM&LegId=157940&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1030456"
+}

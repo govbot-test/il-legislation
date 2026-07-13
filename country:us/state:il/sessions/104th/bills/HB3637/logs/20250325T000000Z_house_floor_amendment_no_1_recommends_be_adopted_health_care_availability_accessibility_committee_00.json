@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Recommends Be Adopted Health Care Availability & Accessibility Committee;  008-003-000",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3637&GAID=18&DocTypeID=HB&LegId=162378&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3637"
+}

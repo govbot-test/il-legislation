@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Veterans Affairs",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=34&GAID=18&DocTypeID=SJR&LegId=163612&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR34"
+}

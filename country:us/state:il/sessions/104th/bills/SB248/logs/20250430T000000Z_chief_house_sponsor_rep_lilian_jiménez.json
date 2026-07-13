@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief House Sponsor Rep. Lilian Jim\u00e9nez",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=248&GAID=18&DocTypeID=SB&LegId=157662&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB248"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Alternate Co-Sponsor Removed Rep. Will Guzzardi",
+    "occurred_at": "2026-05-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3222&GAID=18&DocTypeID=SB&LegId=165937&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3222"
+}

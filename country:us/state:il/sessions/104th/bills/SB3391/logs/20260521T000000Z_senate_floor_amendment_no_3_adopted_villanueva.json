@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 3 Adopted; Villanueva",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3391&GAID=18&DocTypeID=SB&LegId=166297&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3391"
+}

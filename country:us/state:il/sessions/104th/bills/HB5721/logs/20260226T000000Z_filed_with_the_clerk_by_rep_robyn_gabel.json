@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Robyn Gabel",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5721&GAID=18&DocTypeID=HB&LegId=167999&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5721"
+}

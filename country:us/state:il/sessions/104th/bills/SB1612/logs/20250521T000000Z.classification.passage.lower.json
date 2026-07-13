@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 098-013-000",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1612&GAID=18&DocTypeID=SB&LegId=160405&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1612"
+}

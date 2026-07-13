@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution Adopted",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=335&GAID=18&DocTypeID=HR&LegId=163752&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR335"
+}

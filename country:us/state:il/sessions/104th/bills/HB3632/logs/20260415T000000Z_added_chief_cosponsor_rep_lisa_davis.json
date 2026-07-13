@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Chief Co-Sponsor Rep. Lisa Davis",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3632&GAID=18&DocTypeID=HB&LegId=162368&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3632"
+}

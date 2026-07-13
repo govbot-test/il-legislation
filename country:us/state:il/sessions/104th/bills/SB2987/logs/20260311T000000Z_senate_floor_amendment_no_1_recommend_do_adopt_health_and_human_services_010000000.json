@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Recommend Do Adopt Health and Human Services;  010-000-000",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2987&GAID=18&DocTypeID=SB&LegId=165481&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2987"
+}

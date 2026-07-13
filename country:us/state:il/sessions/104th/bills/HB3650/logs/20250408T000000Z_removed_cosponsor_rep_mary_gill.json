@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Removed Co-Sponsor Rep. Mary Gill",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3650&GAID=18&DocTypeID=HB&LegId=162400&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3650"
+}

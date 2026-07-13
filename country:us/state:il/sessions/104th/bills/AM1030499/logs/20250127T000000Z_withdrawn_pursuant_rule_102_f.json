@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn Pursuant Rule 10-2 (f)",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1030499&GAID=18&DocTypeID=AM&LegId=157988&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1030499"
+}

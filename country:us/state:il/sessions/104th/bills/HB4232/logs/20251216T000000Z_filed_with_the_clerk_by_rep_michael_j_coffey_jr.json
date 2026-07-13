@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Michael J. Coffey, Jr.",
+    "occurred_at": "2025-12-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4232&GAID=18&DocTypeID=HB&LegId=164703&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4232"
+}

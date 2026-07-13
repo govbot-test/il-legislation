@@ -1,0 +1,156 @@
+{
+  "identifier": "",
+  "motion_text": "Housing",
+  "motion_classification": [],
+  "start_date": "2026-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "ca619524-7f07-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HJR67",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Canty, Mary Beth",
+      "voter_id": "~{\"name\": \"Canty, Mary Beth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blair-Sherlock, Diane",
+      "voter_id": "~{\"name\": \"Blair-Sherlock, Diane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deuter, Martha",
+      "voter_id": "~{\"name\": \"Deuter, Martha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim\u00e9nez, Lilian",
+      "voter_id": "~{\"name\": \"Jim\\u00e9nez, Lilian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harper, Sonya M",
+      "voter_id": "~{\"name\": \"Harper, Sonya M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mayfield, Rita",
+      "voter_id": "~{\"name\": \"Mayfield, Rita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lilly, Camille Y",
+      "voter_id": "~{\"name\": \"Lilly, Camille Y\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rashid, Abdelnasser",
+      "voter_id": "~{\"name\": \"Rashid, Abdelnasser\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stava, Anne",
+      "voter_id": "~{\"name\": \"Stava, Anne\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Halbrook, Brad",
+      "voter_id": "~{\"name\": \"Halbrook, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Grant, Amy L",
+      "voter_id": "~{\"name\": \"Grant, Amy L\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sheehan, Patrick",
+      "voter_id": "~{\"name\": \"Sheehan, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sanalitro, Jennifer",
+      "voter_id": "~{\"name\": \"Sanalitro, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HJR0067_47201.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HJR0067_47201.pdf"
+}

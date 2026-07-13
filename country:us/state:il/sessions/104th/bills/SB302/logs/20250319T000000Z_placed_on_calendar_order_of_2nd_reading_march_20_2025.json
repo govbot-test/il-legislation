@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 2nd Reading March 20, 2025",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=302&GAID=18&DocTypeID=SB&LegId=157781&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB302"
+}

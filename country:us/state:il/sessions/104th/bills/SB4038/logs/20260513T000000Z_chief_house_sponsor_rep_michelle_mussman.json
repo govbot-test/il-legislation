@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chief House Sponsor Rep. Michelle Mussman",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4038&GAID=18&DocTypeID=SB&LegId=167598&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB4038"
+}

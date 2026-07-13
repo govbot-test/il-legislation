@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2602&GAID=18&DocTypeID=HB&LegId=160521&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2602"
+}

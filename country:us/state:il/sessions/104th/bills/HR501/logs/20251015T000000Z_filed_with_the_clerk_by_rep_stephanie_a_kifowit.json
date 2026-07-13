@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Stephanie A. Kifowit",
+    "occurred_at": "2025-10-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=501&GAID=18&DocTypeID=HR&LegId=164384&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR501"
+}

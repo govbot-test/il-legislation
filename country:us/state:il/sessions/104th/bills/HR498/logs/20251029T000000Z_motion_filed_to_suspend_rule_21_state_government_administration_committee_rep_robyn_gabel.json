@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Filed to Suspend Rule 21 State Government Administration Committee;  Rep. Robyn Gabel",
+    "occurred_at": "2025-10-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=498&GAID=18&DocTypeID=HR&LegId=164311&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR498"
+}

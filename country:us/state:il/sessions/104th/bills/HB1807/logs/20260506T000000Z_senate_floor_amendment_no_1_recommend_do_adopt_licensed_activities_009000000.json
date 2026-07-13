@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Recommend Do Adopt Licensed Activities;  009-000-000",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1807&GAID=18&DocTypeID=HB&LegId=159239&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1807"
+}

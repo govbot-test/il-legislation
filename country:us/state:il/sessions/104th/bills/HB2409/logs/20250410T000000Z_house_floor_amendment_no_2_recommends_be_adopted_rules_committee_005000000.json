@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 2 Recommends Be Adopted Rules Committee;  005-000-000",
+    "occurred_at": "2025-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2409&GAID=18&DocTypeID=HB&LegId=160142&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2409"
+}

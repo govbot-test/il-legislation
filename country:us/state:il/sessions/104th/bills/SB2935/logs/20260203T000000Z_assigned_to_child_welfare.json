@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Child Welfare",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2935&GAID=18&DocTypeID=SB&LegId=165331&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2935"
+}

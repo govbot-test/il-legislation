@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion Filed to Suspend Rule 21 Health Care Licenses Committee;  Rep. Robyn Gabel",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5214&GAID=18&DocTypeID=HB&LegId=166887&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5214"
+}

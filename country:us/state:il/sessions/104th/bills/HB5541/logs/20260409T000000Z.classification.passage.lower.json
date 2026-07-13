@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading - Short Debate - Passed 103-000-000",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=5541&GAID=18&DocTypeID=HB&LegId=167549&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5541"
+}

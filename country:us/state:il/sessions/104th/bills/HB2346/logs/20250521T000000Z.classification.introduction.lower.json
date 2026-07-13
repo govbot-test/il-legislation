@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Arrived in House",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2346&GAID=18&DocTypeID=HB&LegId=160026&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2346"
+}

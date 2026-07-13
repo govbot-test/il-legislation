@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Behavioral and Mental Health",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=193&GAID=18&DocTypeID=SR&LegId=163328&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR193"
+}

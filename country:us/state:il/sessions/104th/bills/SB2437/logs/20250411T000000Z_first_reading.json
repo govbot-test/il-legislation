@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "First Reading",
+    "occurred_at": "2025-04-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2437&GAID=18&DocTypeID=SB&LegId=162488&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2437"
+}

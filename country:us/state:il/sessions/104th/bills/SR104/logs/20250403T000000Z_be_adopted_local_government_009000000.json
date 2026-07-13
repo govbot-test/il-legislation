@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Be Adopted Local Government;  009-000-000",
+    "occurred_at": "2025-04-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=104&GAID=18&DocTypeID=SR&LegId=160968&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR104"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Adopted",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3637&GAID=18&DocTypeID=HB&LegId=162378&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3637"
+}

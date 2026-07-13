@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Chief Co-Sponsor Rep. Norine K. Hammond",
+    "occurred_at": "2025-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1743&GAID=18&DocTypeID=HB&LegId=159097&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1743"
+}

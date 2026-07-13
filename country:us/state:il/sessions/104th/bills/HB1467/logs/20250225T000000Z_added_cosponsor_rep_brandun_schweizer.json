@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Brandun Schweizer",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1467&GAID=18&DocTypeID=HB&LegId=157522&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1467"
+}

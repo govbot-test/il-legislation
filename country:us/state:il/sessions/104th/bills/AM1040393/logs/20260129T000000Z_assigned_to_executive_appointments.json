@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Executive Appointments",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040393&GAID=18&DocTypeID=AM&LegId=165696&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1040393"
+}

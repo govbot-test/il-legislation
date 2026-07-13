@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution Adopted",
+    "occurred_at": "2025-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=121&GAID=18&DocTypeID=HR&LegId=161114&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR121"
+}

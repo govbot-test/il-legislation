@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Be Adopted Education;  012-000-000",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=542&GAID=18&DocTypeID=SR&LegId=164690&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR542"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Do Pass as Amended Energy and Public Utilities;  009-005-000",
+    "occurred_at": "2025-04-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2258&GAID=18&DocTypeID=SB&LegId=162032&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2258"
+}

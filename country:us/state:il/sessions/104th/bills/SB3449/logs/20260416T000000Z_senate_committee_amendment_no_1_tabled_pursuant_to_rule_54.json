@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3449&GAID=18&DocTypeID=SB&LegId=166407&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3449"
+}

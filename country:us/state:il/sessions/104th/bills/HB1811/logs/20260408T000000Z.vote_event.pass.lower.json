@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Human Services, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2026-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "aa032f9a-7f02-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB1811",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Avelar, Dagmara",
+      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Norma",
+      "voter_id": "~{\"name\": \"Hernandez, Norma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LaPointe, Lindsey",
+      "voter_id": "~{\"name\": \"LaPointe, Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris, Yolonda",
+      "voter_id": "~{\"name\": \"Morris, Yolonda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moeller, Anna",
+      "voter_id": "~{\"name\": \"Moeller, Anna\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ness, Suzanne M",
+      "voter_id": "~{\"name\": \"Ness, Suzanne M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schmidt, Kevin",
+      "voter_id": "~{\"name\": \"Schmidt, Kevin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Windhorst, Patrick",
+      "voter_id": "~{\"name\": \"Windhorst, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hammond, Norine K",
+      "voter_id": "~{\"name\": \"Hammond, Norine K\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Meier, Charles",
+      "voter_id": "~{\"name\": \"Meier, Charles\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1811HFA2_46165.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1811HFA2_46165.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Co-Sponsor Rep. Jason R. Bunting",
+    "occurred_at": "2025-07-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=428&GAID=18&DocTypeID=HR&LegId=163998&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR428"
+}

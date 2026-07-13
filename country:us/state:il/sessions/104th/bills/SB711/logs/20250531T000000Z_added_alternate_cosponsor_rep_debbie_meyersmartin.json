@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added Alternate Co-Sponsor Rep. Debbie Meyers-Martin",
+    "occurred_at": "2025-05-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=711&GAID=18&DocTypeID=SB&LegId=158422&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB711"
+}

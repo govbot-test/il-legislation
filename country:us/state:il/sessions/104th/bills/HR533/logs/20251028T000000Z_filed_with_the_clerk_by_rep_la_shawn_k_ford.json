@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. La Shawn K. Ford",
+    "occurred_at": "2025-10-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=533&GAID=18&DocTypeID=HR&LegId=164494&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR533"
+}

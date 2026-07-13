@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution Adopted 074-033-000",
+    "occurred_at": "2025-10-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=507&GAID=18&DocTypeID=HR&LegId=164390&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR507"
+}

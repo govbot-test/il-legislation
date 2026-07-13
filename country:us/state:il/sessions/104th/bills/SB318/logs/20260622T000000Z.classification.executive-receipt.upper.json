@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2026-06-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=318&GAID=18&DocTypeID=SB&LegId=157800&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB318"
+}

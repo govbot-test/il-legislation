@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Recommends Be Adopted Insurance Committee;  014-000-000",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1864&GAID=18&DocTypeID=HB&LegId=159434&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1864"
+}

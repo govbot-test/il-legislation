@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Executive",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3602&GAID=18&DocTypeID=SB&LegId=166697&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3602"
+}

@@ -1,0 +1,156 @@
+{
+  "identifier": "",
+  "motion_text": "Gaming",
+  "motion_classification": [],
+  "start_date": "2026-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "8342495c-7f04-11f1-bedb-1eb14de77355",
+  "bill_action": null,
+  "bill_identifier": "HB3473",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Buckner, Kam",
+      "voter_id": "~{\"name\": \"Buckner, Kam\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gordon-Booth, Jehan",
+      "voter_id": "~{\"name\": \"Gordon-Booth, Jehan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
+      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rita, Robert \"Bob\"",
+      "voter_id": "~{\"name\": \"Rita, Robert \\\"Bob\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarver II, Curtis J",
+      "voter_id": "~{\"name\": \"Tarver II, Curtis J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams, Jawaharial",
+      "voter_id": "~{\"name\": \"Williams, Jawaharial\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cabello, John M",
+      "voter_id": "~{\"name\": \"Cabello, John M\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeLuca, Anthony",
+      "voter_id": "~{\"name\": \"DeLuca, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Keicher, Jeff",
+      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sheehan, Patrick",
+      "voter_id": "~{\"name\": \"Sheehan, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Schweizer, Brandun",
+      "voter_id": "~{\"name\": \"Schweizer, Brandun\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Walsh Jr., Lawrence \"Larry\"",
+      "voter_id": "~{\"name\": \"Walsh Jr., Lawrence \\\"Larry\\\"\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3473_45995.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3473_45995.pdf"
+}

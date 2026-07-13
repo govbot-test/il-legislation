@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "2/3 Vote Required",
+    "occurred_at": "2025-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1040207&GAID=18&DocTypeID=AM&LegId=163702&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1040207"
+}

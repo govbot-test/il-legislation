@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Received by the Senate Sen. Laura M. Murphy;  on 04/24/2024",
+    "occurred_at": "2025-01-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=1030472&GAID=18&DocTypeID=AM&LegId=157959&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AM1030472"
+}

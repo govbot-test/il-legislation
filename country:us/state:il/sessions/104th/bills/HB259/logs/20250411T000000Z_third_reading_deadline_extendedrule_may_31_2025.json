@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Third Reading Deadline Extended-Rule May 31, 2025",
+    "occurred_at": "2025-04-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=259&GAID=18&DocTypeID=HB&LegId=155936&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB259"
+}

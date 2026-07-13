@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Lawrence \"Larry\" Walsh, Jr.",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=374&GAID=18&DocTypeID=HR&LegId=163851&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR374"
+}

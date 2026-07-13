@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 4 Recommends Be Adopted Consumer Protection Committee;  008-000-000",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2338&GAID=18&DocTypeID=HB&LegId=159994&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2338"
+}

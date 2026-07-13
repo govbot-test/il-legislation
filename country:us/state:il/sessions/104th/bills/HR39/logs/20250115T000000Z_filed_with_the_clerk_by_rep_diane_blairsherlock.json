@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed with the Clerk by Rep. Diane Blair-Sherlock",
+    "occurred_at": "2025-01-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=39&GAID=18&DocTypeID=HR&LegId=157348&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR39"
+}

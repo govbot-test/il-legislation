@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Committee Amendment No. 1 Filed with Clerk by Rep. Dagmara Avelar",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4730&GAID=18&DocTypeID=HB&LegId=165828&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4730"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Floor Amendment No. 1 Filed with Clerk by Rep. Rita Mayfield",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=314&GAID=18&DocTypeID=SB&LegId=157796&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB314"
+}

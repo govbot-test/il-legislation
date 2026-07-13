@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Calendar Order of Resolutions",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=242&GAID=18&DocTypeID=HR&LegId=163455&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR242"
+}

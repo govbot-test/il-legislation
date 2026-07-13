@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 1 Withdrawn by Sen. David Koehler",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=3114&GAID=18&DocTypeID=SB&LegId=165735&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3114"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Revenue & Finance Committee",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "104th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://ilga.gov/Legislation/BillStatus?DocNum=2642&GAID=18&DocTypeID=HB&LegId=160594&SessionID=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2642"
+}
