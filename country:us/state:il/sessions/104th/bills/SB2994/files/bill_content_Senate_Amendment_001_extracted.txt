@@ -1,0 +1,16 @@
+Title: Full Text of SB2994
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2994 Illinois General Assembly ILGA.GOV SB2994 - 104th General Assembly Sen. Rachel VenturaFiled: 3/5/2026   10400SB2994sam001LRB104 17867 BDA 35207 a1AMENDMENT TO SENATE BILL 2994 2    AMENDMENT NO. ______. Amend Senate Bill 2994 on page 9, 3lines 4 through 7, by deleting ""Neurotechnology data" does 4not include nonneural information, such as pupil dilation, 5motor activity, breathing rate, or other information about the 6downstream physical effects of neutral activity."; and  7on page 23, by replacing lines 23 through 26 with "search 8results from a consumer neurotechnology database without a 9search warrant or investigative subpoena issued by a court on 10a finding of probable cause."; and  11on page 24, by deleting lines 1 through 3.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2994 Illinois General Assembly ILGA.GOV SB2994 - 104th General Assembly Sen. Rachel VenturaFiled: 3/5/2026   10400SB2994sam001LRB104 17867 BDA 35207 a1AMENDMENT TO SENATE BILL 2994 2    AMENDMENT NO. ______. Amend Senate Bill 2994 on page 9, 3lines 4 through 7, by deleting ""Neurotechnology data" does 4not include nonneural information, such as pupil dilation, 5motor activity, breathing rate, or other information about the 6downstream physical effects of neutral activity."; and  7on page 23, by replacing lines 23 through 26 with "search 8results from a consumer neurotechnology database without a 9search warrant or investigative subpoena issued by a court on 10a finding of probable cause."; and  11on page 24, by deleting lines 1 through 3.
