@@ -1,0 +1,16 @@
+Title: Full Text of SB3975
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3975 Illinois General Assembly ILGA.GOV SB3975 - 104th General Assembly Sen. Omar AquinoFiled: 2/24/2026   10400SB3975sam001LRB104 20750 SPS 34583 a1AMENDMENT TO SENATE BILL 3975 2    AMENDMENT NO. ______. Amend Senate Bill 3975 on page 1, 3immediately below line 3, by inserting the following: 4    "Section 1. This Act may be referred to as the Workforce 5Investment and Sustainable Employment Reporting Act."; and 6on page 2, by replacing lines 11 through 15 with the following:7            "(C) the percentage change of full-time equivalent 8        hours by contingent workers with respect to the 9        employer, including temporary and contract workers, as 10        compared with the previous annual report filed by the 11        employer under this subsection."; and 12on page 3, line 3, before "quintile" by inserting "wage"; and 13on page 4, by replacing lines 19 through 21 with the following:14            "(B) the total dollar value of assessed fines   10400SB3975sam001- 2 -LRB104 20750 SPS 34583 a1        under the Americans with Disabilities Act; and2            (C) the total number of actions brought under the 3        Americans with Disabilities Act to prevent imminent 4        dangers;"; and 5on page 6, line 1, by replacing "(B)" with "(A)"; and 6on page 7, line 3, by deleting "privacy".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3975 Illinois General Assembly ILGA.GOV SB3975 - 104th General Assembly Sen. Omar AquinoFiled: 2/24/2026   10400SB3975sam001LRB104 20750 SPS 34583 a1AMENDMENT TO SENATE BILL 3975 2    AMENDMENT NO. ______. Amend Senate Bill 3975 on page 1, 3immediately below line 3, by inserting the following: 4    "Section 1. This Act may be referred to as the Workforce 5Investment and Sustainable Employment Reporting Act."; and 6on page 2, by replacing lines 11 through 15 with the following:7            "(C) the percentage change of full-time equivalent 8        hours by contingent workers with respect to the 9        employer, including temporary and contract workers, as 10        compared with the previous annual report filed by the 11        employer under this subsection."; and 12on page 3, line 3, before "quintile" by inserting "wage"; and 13on page 4, by replacing lines 19 through 21 with the following:14            "(B) the total dollar value of assessed fines   10400SB3975sam001- 2 -LRB104 20750 SPS 34583 a1        under the Americans with Disabilities Act; and2            (C) the total number of actions brought under the 3        Americans with Disabilities Act to prevent imminent 4        dangers;"; and 5on page 6, line 1, by replacing "(B)" with "(A)"; and 6on page 7, line 3, by deleting "privacy".

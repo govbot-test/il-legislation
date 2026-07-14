@@ -1,0 +1,16 @@
+Title: Full Text of HB5480
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB5480 Illinois General Assembly ILGA.GOV HB5480 - 104th General Assembly Rep. Aarón M. OrtízFiled: 4/14/2026   10400HB5480ham002LRB104 19938 BDA 36646 a1AMENDMENT TO HOUSE BILL 5480 2    AMENDMENT NO. ______. Amend House Bill 5480, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Fire Investigation Act is amended by 6changing Section 6.1 as follows: 7    (425 ILCS 25/6.1)8    Sec. 6.1. Fire and hazardous material incident reporting 9rules. The State Fire Marshal may adopt necessary rules for 10the administration of the reporting of fires, hazardous 11material incidents, and other incidents or events that the 12State Fire Marshal deems of importance to the fire services. 13The reporting of such information shall be based upon the 14nationally recognized standards of the United States Fire 15Administration's National Emergency Response Information 16System (NERIS) Fire Incident Reporting System (NFIRS).  10400HB5480ham002- 2 -LRB104 19938 BDA 36646 a1(Source: P.A. 101-82, eff. 1-1-20.) 2    Section 99. Effective date. This Act takes effect upon 3becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB5480 Illinois General Assembly ILGA.GOV HB5480 - 104th General Assembly Rep. Aarón M. OrtízFiled: 4/14/2026   10400HB5480ham002LRB104 19938 BDA 36646 a1AMENDMENT TO HOUSE BILL 5480 2    AMENDMENT NO. ______. Amend House Bill 5480, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Fire Investigation Act is amended by 6changing Section 6.1 as follows: 7    (425 ILCS 25/6.1)8    Sec. 6.1. Fire and hazardous material incident reporting 9rules. The State Fire Marshal may adopt necessary rules for 10the administration of the reporting of fires, hazardous 11material incidents, and other incidents or events that the 12State Fire Marshal deems of importance to the fire services. 13The reporting of such information shall be based upon the 14nationally recognized standards of the United States Fire 15Administration's National Emergency Response Information 16System (NERIS) Fire Incident Reporting System (NFIRS).  10400HB5480ham002- 2 -LRB104 19938 BDA 36646 a1(Source: P.A. 101-82, eff. 1-1-20.) 2    Section 99. Effective date. This Act takes effect upon 3becoming law.".

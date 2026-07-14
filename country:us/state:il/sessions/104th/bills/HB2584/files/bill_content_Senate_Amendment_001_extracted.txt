@@ -1,0 +1,16 @@
+Title: Full Text of HB2584
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2584 Illinois General Assembly ILGA.GOV HB2584 - 104th General Assembly Sen. Sara FeigenholtzFiled: 4/27/2026   10400HB2584sam001LRB104 08321 BAB 37084 a1AMENDMENT TO HOUSE BILL 2584 2    AMENDMENT NO. ______. Amend House Bill 2584 on page 5, by 3replacing line 14 with the following:4"medication. This Section does not apply to a health care plan 5serving Medicaid populations that provides, arranges for, pays 6for, or reimburses the cost of any health care service for 7persons who are enrolled under the Illinois Public Aid Code; 8however, nothing in this Section shall be construed to limit 9or otherwise diminish any coverage requirements, patient 10protections, or access standards applicable to the medical 11assistance program under the Illinois Public Aid Code, 12including, but not limited to, Section 5-5, Section 5-16.8, or 13any other provision of the Illinois Public Aid Code regarding 14coverage of human immunodeficiency virus pre-exposure 15prophylaxis and post-exposure prophylaxis medication or human 16immunodeficiency virus treatment medication.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2584 Illinois General Assembly ILGA.GOV HB2584 - 104th General Assembly Sen. Sara FeigenholtzFiled: 4/27/2026   10400HB2584sam001LRB104 08321 BAB 37084 a1AMENDMENT TO HOUSE BILL 2584 2    AMENDMENT NO. ______. Amend House Bill 2584 on page 5, by 3replacing line 14 with the following:4"medication. This Section does not apply to a health care plan 5serving Medicaid populations that provides, arranges for, pays 6for, or reimburses the cost of any health care service for 7persons who are enrolled under the Illinois Public Aid Code; 8however, nothing in this Section shall be construed to limit 9or otherwise diminish any coverage requirements, patient 10protections, or access standards applicable to the medical 11assistance program under the Illinois Public Aid Code, 12including, but not limited to, Section 5-5, Section 5-16.8, or 13any other provision of the Illinois Public Aid Code regarding 14coverage of human immunodeficiency virus pre-exposure 15prophylaxis and post-exposure prophylaxis medication or human 16immunodeficiency virus treatment medication.".
