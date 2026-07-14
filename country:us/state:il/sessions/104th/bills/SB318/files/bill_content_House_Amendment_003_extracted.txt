@@ -1,0 +1,16 @@
+Title: Full Text of SB0318
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0318 Illinois General Assembly ILGA.GOV SB0318 - 104th General Assembly Rep. Nabeela SyedFiled: 5/29/2026   10400SB0318ham003LRB104 06435 SPS 38584 a1AMENDMENT TO SENATE BILL 318 2    AMENDMENT NO. ______. Amend Senate Bill 318, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 1, by replacing lines 6 through 11 with the 5following: 6    "Section 5. Definition. As used in this Act:7    "Bot" means any automated software program that performs 8automatic and repetitive tasks and is designed to impersonate 9or replicate human activity online. "Bot" does not include 10auto fill or password management features built into an 11Internet browser or provided through separate software.12    "Event facility" means a permanent structure for holding 13public meetings or public events, including, but not limited 14to, baseball games, football games, hockey games, automobile 15races, or other musical, dramatic, artistic, social, or 16athletic events. "Event facility" includes a convention 17center. "Event facility" does not include a school stadium,   10400SB0318ham003- 2 -LRB104 06435 SPS 38584 a1county fair, or hotel."; and 2on page 1, line 14, by replacing "a bot" with "one or more 3bots"; and 4on page 2, line 9, by replacing "a place of entertainment" with 5"an event facility".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0318 Illinois General Assembly ILGA.GOV SB0318 - 104th General Assembly Rep. Nabeela SyedFiled: 5/29/2026   10400SB0318ham003LRB104 06435 SPS 38584 a1AMENDMENT TO SENATE BILL 318 2    AMENDMENT NO. ______. Amend Senate Bill 318, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 1, by replacing lines 6 through 11 with the 5following: 6    "Section 5. Definition. As used in this Act:7    "Bot" means any automated software program that performs 8automatic and repetitive tasks and is designed to impersonate 9or replicate human activity online. "Bot" does not include 10auto fill or password management features built into an 11Internet browser or provided through separate software.12    "Event facility" means a permanent structure for holding 13public meetings or public events, including, but not limited 14to, baseball games, football games, hockey games, automobile 15races, or other musical, dramatic, artistic, social, or 16athletic events. "Event facility" includes a convention 17center. "Event facility" does not include a school stadium,   10400SB0318ham003- 2 -LRB104 06435 SPS 38584 a1county fair, or hotel."; and 2on page 1, line 14, by replacing "a bot" with "one or more 3bots"; and 4on page 2, line 9, by replacing "a place of entertainment" with 5"an event facility".

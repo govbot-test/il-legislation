@@ -1,0 +1,16 @@
+Title: Full Text of HB5418
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB5418 Illinois General Assembly ILGA.GOV HB5418 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB5418 Introduced 2/13/2026, by Rep. Justin Slaughter SYNOPSIS AS INTRODUCED: New Act    Creates the Unauthorized Use of Email Act. Provides that, if a public employer is made aware that the public employer's email system was used in an unauthorized manner, the public employer shall release a statement of admonishment to all of its employees affected by the unauthorized use.LRB104 18663 SPS 32106 b  A BILL FOR HB5418LRB104 18663 SPS 32106 b1    AN ACT concerning government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 1. Short title. This Act may be cited as the 5Unauthorized Use of Email Act. 6    Section 5. Definition. As used in this Act, "public 7employer" means the State, an agency or department thereof, 8unit of local government, school district, instrumentality or 9political subdivision. 10    Section 10. Unauthorized use of email. If a public 11employer is made aware that the public employer's email system 12was used in an unauthorized manner, the public employer shall 13release a statement of admonishment to all of its employees 14affected by the unauthorized use.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB5418 Illinois General Assembly ILGA.GOV HB5418 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB5418 Introduced 2/13/2026, by Rep. Justin Slaughter SYNOPSIS AS INTRODUCED: New Act    Creates the Unauthorized Use of Email Act. Provides that, if a public employer is made aware that the public employer's email system was used in an unauthorized manner, the public employer shall release a statement of admonishment to all of its employees affected by the unauthorized use.LRB104 18663 SPS 32106 b  A BILL FOR HB5418LRB104 18663 SPS 32106 b1    AN ACT concerning government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 1. Short title. This Act may be cited as the 5Unauthorized Use of Email Act. 6    Section 5. Definition. As used in this Act, "public 7employer" means the State, an agency or department thereof, 8unit of local government, school district, instrumentality or 9political subdivision. 10    Section 10. Unauthorized use of email. If a public 11employer is made aware that the public employer's email system 12was used in an unauthorized manner, the public employer shall 13release a statement of admonishment to all of its employees 14affected by the unauthorized use.
