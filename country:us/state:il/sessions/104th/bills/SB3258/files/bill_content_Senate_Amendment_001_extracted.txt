@@ -1,0 +1,16 @@
+Title: Full Text of SB3258
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3258 Illinois General Assembly ILGA.GOV SB3258 - 104th General Assembly Sen. Laura M. MurphyFiled: 4/16/2026   10400SB3258sam001LRB104 17101 BAB 36891 a1AMENDMENT TO SENATE BILL 32582    AMENDMENT NO. ______. Amend Senate Bill 3258 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Insurance Code is amended by 5adding Section 143.35 as follows: 6    (215 ILCS 5/143.35 new)7    Sec. 143.35. Optional rental vehicle coverage. 8    (a) In response to all applications for a policy of 9automobile insurance, as defined in paragraph (a) of Section 10143.13, received by an insurance company, the insurance 11company or its agent shall provide the applicant information 12regarding the availability of coverage for loss of use of an 13insured vehicle as a result of a cause of loss covered by the 14policy contract, including the coverage limits and costs 15thereof.16    (b) At least 30 days prior to each renewal of a policy of   10400SB3258sam001- 2 -LRB104 17101 BAB 36891 a1automobile insurance, as defined in paragraph (a) of Section 2143.13, the insurance company or its agent shall provide the 3insured information regarding the availability of coverage for 4loss of use of an insured vehicle as a result of a cause of 5loss covered by the policy contract, including the coverage 6limits and costs thereof. 7    Section 99. Effective date. This Act takes effect on July 81, 2027.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3258 Illinois General Assembly ILGA.GOV SB3258 - 104th General Assembly Sen. Laura M. MurphyFiled: 4/16/2026   10400SB3258sam001LRB104 17101 BAB 36891 a1AMENDMENT TO SENATE BILL 32582    AMENDMENT NO. ______. Amend Senate Bill 3258 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Insurance Code is amended by 5adding Section 143.35 as follows: 6    (215 ILCS 5/143.35 new)7    Sec. 143.35. Optional rental vehicle coverage. 8    (a) In response to all applications for a policy of 9automobile insurance, as defined in paragraph (a) of Section 10143.13, received by an insurance company, the insurance 11company or its agent shall provide the applicant information 12regarding the availability of coverage for loss of use of an 13insured vehicle as a result of a cause of loss covered by the 14policy contract, including the coverage limits and costs 15thereof.16    (b) At least 30 days prior to each renewal of a policy of   10400SB3258sam001- 2 -LRB104 17101 BAB 36891 a1automobile insurance, as defined in paragraph (a) of Section 2143.13, the insurance company or its agent shall provide the 3insured information regarding the availability of coverage for 4loss of use of an insured vehicle as a result of a cause of 5loss covered by the policy contract, including the coverage 6limits and costs thereof. 7    Section 99. Effective date. This Act takes effect on July 81, 2027.".
