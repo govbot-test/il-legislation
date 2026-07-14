@@ -1,0 +1,16 @@
+Title: Full Text of SB0416
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0416 Illinois General Assembly ILGA.GOV SB0416 - 104th General Assembly Sen. Robert F. MartwickFiled: 5/11/2026   10400SB0416sam001LRB104 06654 LNS 37619 a1AMENDMENT TO SENATE BILL 4162    AMENDMENT NO. ______. Amend Senate Bill 416 by replacing 3everything after the enacting clause with the following: 4    "Section 1. Short title. This Act may be cited as the 5Student Educational Technology Rights Act. 6    Section 5. Definitions. As used in this Act:7    "Artificial intelligence" has the meaning given to that 8term in Section 2-101 of the Illinois Human Rights Act and 9includes generative artificial intelligence.10    "Student" has the meaning given to that term in the 11Illinois School Student Records Act. 12    Section 10. Artificial intelligence technology policy. By 13the 2026-2027 school year, the school board of each school 14district shall adopt a policy that, at a minimum:15        (1) prohibits teachers from using an artificial   10400SB0416sam001- 2 -LRB104 06654 LNS 37619 a1    intelligence tool to assign a numerical score or a grade 2    for any task that requires professional judgment; and3        (2) requires that any artificial intelligence model 4    used in relation to students or student work be approved 5    by the school board. 6    Section 99. Effective date. This Act takes effect upon 7becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0416 Illinois General Assembly ILGA.GOV SB0416 - 104th General Assembly Sen. Robert F. MartwickFiled: 5/11/2026   10400SB0416sam001LRB104 06654 LNS 37619 a1AMENDMENT TO SENATE BILL 4162    AMENDMENT NO. ______. Amend Senate Bill 416 by replacing 3everything after the enacting clause with the following: 4    "Section 1. Short title. This Act may be cited as the 5Student Educational Technology Rights Act. 6    Section 5. Definitions. As used in this Act:7    "Artificial intelligence" has the meaning given to that 8term in Section 2-101 of the Illinois Human Rights Act and 9includes generative artificial intelligence.10    "Student" has the meaning given to that term in the 11Illinois School Student Records Act. 12    Section 10. Artificial intelligence technology policy. By 13the 2026-2027 school year, the school board of each school 14district shall adopt a policy that, at a minimum:15        (1) prohibits teachers from using an artificial   10400SB0416sam001- 2 -LRB104 06654 LNS 37619 a1    intelligence tool to assign a numerical score or a grade 2    for any task that requires professional judgment; and3        (2) requires that any artificial intelligence model 4    used in relation to students or student work be approved 5    by the school board. 6    Section 99. Effective date. This Act takes effect upon 7becoming law.".
