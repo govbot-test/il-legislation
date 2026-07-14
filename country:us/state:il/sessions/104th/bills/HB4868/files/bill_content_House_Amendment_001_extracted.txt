@@ -1,0 +1,16 @@
+Title: Full Text of HB4868
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB4868 Illinois General Assembly ILGA.GOV HB4868 - 104th General Assembly Rep. Amy ElikFiled: 4/7/2026   10400HB4868ham001LRB104 18300 BAB 36110 a1AMENDMENT TO HOUSE BILL 48682    AMENDMENT NO. ______. Amend House Bill 4868 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Nursing Home Care Act is amended by adding 5Section 3-610.5 as follows: 6    (210 ILCS 45/3-610.5 new)7    Sec. 3-610.5. Incident and accident reporting. 8    (a) Each facility shall notify the Department of any 9incident or accident that results in serious physical harm or 10injury to a resident or any situation in which a resident 11requires immediate medical attention, including admission to a 12hospital, as a direct result of an incident or accident. 13Nothing in this Section precludes reporting of suspected or 14alleged abuse or neglect that must be reported according to 15the Abused and Neglected Long Term Care Facility Residents 16Reporting Act.  10400HB4868ham001- 2 -LRB104 18300 BAB 36110 a1    (b) Each facility shall, by phone, by fax, or through the 2Office of Health Care Regulation LLCS Portal, notify the 3appropriate regional office of the Department within 24 hours 4after each reportable incident or accident. The facility shall 5send a narrative summary of each reportable incident or 6accident to the Department within 5 business days after the 7incident or accident.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB4868 Illinois General Assembly ILGA.GOV HB4868 - 104th General Assembly Rep. Amy ElikFiled: 4/7/2026   10400HB4868ham001LRB104 18300 BAB 36110 a1AMENDMENT TO HOUSE BILL 48682    AMENDMENT NO. ______. Amend House Bill 4868 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Nursing Home Care Act is amended by adding 5Section 3-610.5 as follows: 6    (210 ILCS 45/3-610.5 new)7    Sec. 3-610.5. Incident and accident reporting. 8    (a) Each facility shall notify the Department of any 9incident or accident that results in serious physical harm or 10injury to a resident or any situation in which a resident 11requires immediate medical attention, including admission to a 12hospital, as a direct result of an incident or accident. 13Nothing in this Section precludes reporting of suspected or 14alleged abuse or neglect that must be reported according to 15the Abused and Neglected Long Term Care Facility Residents 16Reporting Act.  10400HB4868ham001- 2 -LRB104 18300 BAB 36110 a1    (b) Each facility shall, by phone, by fax, or through the 2Office of Health Care Regulation LLCS Portal, notify the 3appropriate regional office of the Department within 24 hours 4after each reportable incident or accident. The facility shall 5send a narrative summary of each reportable incident or 6accident to the Department within 5 business days after the 7incident or accident.".

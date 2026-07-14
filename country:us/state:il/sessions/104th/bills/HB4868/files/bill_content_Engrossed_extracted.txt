@@ -1,0 +1,16 @@
+Title: Full Text of HB4868
+Official Title: 
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB4868 Illinois General Assembly ILGA.GOV HB4868 - 104th General Assembly HB4868 EngrossedLRB104 18300 BAB 31740 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Nursing Home Care Act is amended by adding 5Section 3-610.5 as follows: 6    (210 ILCS 45/3-610.5 new)7    Sec. 3-610.5. Incident and accident reporting. 8    (a) Each facility shall notify the Department of any 9incident or accident that results in serious physical harm or 10injury to a resident or any situation in which a resident 11requires immediate medical attention, including admission to a 12hospital, as a direct result of an incident or accident. 13Nothing in this Section precludes reporting of suspected or 14alleged abuse or neglect that must be reported according to 15the Abused and Neglected Long Term Care Facility Residents 16Reporting Act.17    (b) Each facility shall, by phone, by fax, or through the 18Office of Health Care Regulation LLCS Portal, notify the 19appropriate regional office of the Department within 24 hours 20after each reportable incident or accident. The facility shall 21send a narrative summary of each reportable incident or 22accident to the Department within 5 business days after the 23incident or accident.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB4868 Illinois General Assembly ILGA.GOV HB4868 - 104th General Assembly HB4868 EngrossedLRB104 18300 BAB 31740 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Nursing Home Care Act is amended by adding 5Section 3-610.5 as follows: 6    (210 ILCS 45/3-610.5 new)7    Sec. 3-610.5. Incident and accident reporting. 8    (a) Each facility shall notify the Department of any 9incident or accident that results in serious physical harm or 10injury to a resident or any situation in which a resident 11requires immediate medical attention, including admission to a 12hospital, as a direct result of an incident or accident. 13Nothing in this Section precludes reporting of suspected or 14alleged abuse or neglect that must be reported according to 15the Abused and Neglected Long Term Care Facility Residents 16Reporting Act.17    (b) Each facility shall, by phone, by fax, or through the 18Office of Health Care Regulation LLCS Portal, notify the 19appropriate regional office of the Department within 24 hours 20after each reportable incident or accident. The facility shall 21send a narrative summary of each reportable incident or 22accident to the Department within 5 business days after the 23incident or accident.
