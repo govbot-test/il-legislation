@@ -1,0 +1,16 @@
+Title: Full Text of SB3208
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3208 Illinois General Assembly ILGA.GOV SB3208 - 104th General Assembly Sen. Patrick J. JoyceFiled: 2/24/2026   10400SB3208sam003LRB104 19872 LNS 34767 a1AMENDMENT TO SENATE BILL 32082    AMENDMENT NO. ______. Amend Senate Bill 3208 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Vehicle Code is amended by 5changing Section 1-130 as follows: 6    (625 ILCS 5/1-130)  (from Ch. 95 1/2, par. 1-130)7    Sec. 1-130. Implement of husbandry. Every vehicle designed 8and adapted exclusively for agricultural, horticultural, or 9livestock-raising operations, including farm wagons, wagon 10trailers, or similar vehicles used in connection with such 11operations or for lifting or carrying an implement of 12husbandry that:13        (1) has only one axle and a gross weight 36,000 pounds 14    or less; or15        (2) has 2 or more axles and a gross weight of 52,000 16    pounds or less. Every vehicle designed and adapted   10400SB3208sam003- 2 -LRB104 19872 LNS 34767 a1    exclusively for agricultural, horticultural, or livestock 2    raising operations, including farm wagons, wagon trailers 3    or like vehicles used in connection therewith, or for 4    lifting or carrying an implement of husbandry provided 5    that no farm wagon, wagon trailer or like vehicle having a 6    gross weight of more than 36,000 pounds, shall be included 7    hereunder.8(Source: P.A. 81-327.) 9    Section 99. Effective date. This Act takes effect upon 10becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3208 Illinois General Assembly ILGA.GOV SB3208 - 104th General Assembly Sen. Patrick J. JoyceFiled: 2/24/2026   10400SB3208sam003LRB104 19872 LNS 34767 a1AMENDMENT TO SENATE BILL 32082    AMENDMENT NO. ______. Amend Senate Bill 3208 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Vehicle Code is amended by 5changing Section 1-130 as follows: 6    (625 ILCS 5/1-130)  (from Ch. 95 1/2, par. 1-130)7    Sec. 1-130. Implement of husbandry. Every vehicle designed 8and adapted exclusively for agricultural, horticultural, or 9livestock-raising operations, including farm wagons, wagon 10trailers, or similar vehicles used in connection with such 11operations or for lifting or carrying an implement of 12husbandry that:13        (1) has only one axle and a gross weight 36,000 pounds 14    or less; or15        (2) has 2 or more axles and a gross weight of 52,000 16    pounds or less. Every vehicle designed and adapted   10400SB3208sam003- 2 -LRB104 19872 LNS 34767 a1    exclusively for agricultural, horticultural, or livestock 2    raising operations, including farm wagons, wagon trailers 3    or like vehicles used in connection therewith, or for 4    lifting or carrying an implement of husbandry provided 5    that no farm wagon, wagon trailer or like vehicle having a 6    gross weight of more than 36,000 pounds, shall be included 7    hereunder.8(Source: P.A. 81-327.) 9    Section 99. Effective date. This Act takes effect upon 10becoming law.".

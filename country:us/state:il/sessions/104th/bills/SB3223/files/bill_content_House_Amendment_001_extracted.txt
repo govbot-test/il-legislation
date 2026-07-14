@@ -1,0 +1,16 @@
+Title: Full Text of SB3223
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3223 Illinois General Assembly ILGA.GOV SB3223 - 104th General Assembly Rep. Mary GillFiled: 5/21/2026   10400SB3223ham001LRB104 18559 CCC 38104 a1AMENDMENT TO SENATE BILL 32232    AMENDMENT NO. ______. Amend Senate Bill 3223 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. Pharmaceutical recall notice sign-up. 8    (a) Upon dispensing a prescription, a pharmacist shall 9affix to the packaging for the filled prescription a notice 10that includes a QR code informing patients of the ability to 11sign up for medication recall notifications through the United 12States Food and Drug Administration website.13    (b) The Department may adopt rules necessary to implement 14this Section.  15    Section 99. Effective date. This Act takes effect January   10400SB3223ham001- 2 -LRB104 18559 CCC 38104 a11, 2027.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3223 Illinois General Assembly ILGA.GOV SB3223 - 104th General Assembly Rep. Mary GillFiled: 5/21/2026   10400SB3223ham001LRB104 18559 CCC 38104 a1AMENDMENT TO SENATE BILL 32232    AMENDMENT NO. ______. Amend Senate Bill 3223 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. Pharmaceutical recall notice sign-up. 8    (a) Upon dispensing a prescription, a pharmacist shall 9affix to the packaging for the filled prescription a notice 10that includes a QR code informing patients of the ability to 11sign up for medication recall notifications through the United 12States Food and Drug Administration website.13    (b) The Department may adopt rules necessary to implement 14this Section.  15    Section 99. Effective date. This Act takes effect January   10400SB3223ham001- 2 -LRB104 18559 CCC 38104 a11, 2027.".

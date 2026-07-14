@@ -1,0 +1,16 @@
+Title: Full Text of HB4659
+Official Title: 
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB4659 Illinois General Assembly ILGA.GOV HB4659 - 104th General Assembly HB4659 EngrossedLRB104 17719 RLC 31150 b1    AN ACT concerning domestic violence. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Consumer Installment Loan Act is amended by 5adding Section 20.8 as follows: 6    (205 ILCS 670/20.8 new)7    Sec. 20.8. Coerced debt.8    (a) In this Section, "coerced debt" means any debt 9incurred through a loan subject to this Act or a portion of the 10debt, except for debt secured by real property, that was 11incurred by the debtor because of fraud, duress, intimidation, 12threat, force, coercion, undue influence, or the 13non-consensual use of the debtor's personal identifying 14information between family or household members, as defined in 15Section 103 of the Illinois Domestic Violence Act of 1986, as a 16result of abuse or exploitation, as defined in Section 103 of 17the Illinois Domestic Violence Act of 1986, or due to human 18trafficking, as defined in subsections (b), (c), and (d) of 19Section 10-9 of the Criminal Code of 2012.20    (b) In any lawsuit or arbitration to collect a debt, 21subject to this Act, it is an affirmative defense that the debt 22is or is partially coerced debt to the plaintiff and the court 23or arbitrator.  HB4659 Engrossed- 2 -LRB104 17719 RLC 31150 b1    (c) A plaintiff has the burden to disprove the debtor's 2defense by a preponderance of the evidence.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB4659 Illinois General Assembly ILGA.GOV HB4659 - 104th General Assembly HB4659 EngrossedLRB104 17719 RLC 31150 b1    AN ACT concerning domestic violence. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Consumer Installment Loan Act is amended by 5adding Section 20.8 as follows: 6    (205 ILCS 670/20.8 new)7    Sec. 20.8. Coerced debt.8    (a) In this Section, "coerced debt" means any debt 9incurred through a loan subject to this Act or a portion of the 10debt, except for debt secured by real property, that was 11incurred by the debtor because of fraud, duress, intimidation, 12threat, force, coercion, undue influence, or the 13non-consensual use of the debtor's personal identifying 14information between family or household members, as defined in 15Section 103 of the Illinois Domestic Violence Act of 1986, as a 16result of abuse or exploitation, as defined in Section 103 of 17the Illinois Domestic Violence Act of 1986, or due to human 18trafficking, as defined in subsections (b), (c), and (d) of 19Section 10-9 of the Criminal Code of 2012.20    (b) In any lawsuit or arbitration to collect a debt, 21subject to this Act, it is an affirmative defense that the debt 22is or is partially coerced debt to the plaintiff and the court 23or arbitrator.  HB4659 Engrossed- 2 -LRB104 17719 RLC 31150 b1    (c) A plaintiff has the burden to disprove the debtor's 2defense by a preponderance of the evidence.

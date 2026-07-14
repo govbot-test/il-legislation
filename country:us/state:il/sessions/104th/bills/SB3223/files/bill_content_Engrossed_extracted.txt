@@ -1,0 +1,16 @@
+Title: Full Text of SB3223
+Official Title: 
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3223 Illinois General Assembly ILGA.GOV SB3223 - 104th General Assembly SB3223 EngrossedLRB104 18559 AAS 32002 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. Pharmaceutical recall notice sign-up. Every 8pharmacy licensed in this State shall post in a conspicuous 9place near the pharmacy counter and drive-up window, a sign 10that includes a QR code informing patients of the ability to 11sign up for medication recalls via the United States Food and 12Drug Administration website. The Department may adopt rules 13necessary to implement this Section. 14    Section 99. Effective date. This Act takes effect January 151, 2027.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3223 Illinois General Assembly ILGA.GOV SB3223 - 104th General Assembly SB3223 EngrossedLRB104 18559 AAS 32002 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. Pharmaceutical recall notice sign-up. Every 8pharmacy licensed in this State shall post in a conspicuous 9place near the pharmacy counter and drive-up window, a sign 10that includes a QR code informing patients of the ability to 11sign up for medication recalls via the United States Food and 12Drug Administration website. The Department may adopt rules 13necessary to implement this Section. 14    Section 99. Effective date. This Act takes effect January 151, 2027.

@@ -1,0 +1,16 @@
+Title: Full Text of SB3104
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3104 Illinois General Assembly ILGA.GOV SB3104 - 104th General Assembly Sen. Rachel VenturaFiled: 3/6/2026   10400SB3104sam003LRB104 18293 AAS 35198 a1AMENDMENT TO SENATE BILL 3104 2    AMENDMENT NO. ______. Amend Senate Bill 3104, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 7, by replacing lines 9 through 13 with the 5following: 6    "(d) Within 30 days after the installation of a plug-in 7solar energy system, the owner of the plug-in solar energy 8system shall notify the electricity provider that serves the 9building in which the plug-in solar energy system was 10installed of the installation. Within 30 days after"; and 11by replacing line 20 on page 7 through line 2 on page 8 with 12the following: 13        "(2) the service address and utility account number 14    associated with the address at which the plug-in solar 15    energy system was installed;16        (3) the plug-in solar energy system's make and model; 17    and  10400SB3104sam003- 2 -LRB104 18293 AAS 35198 a1        (4) the plug-in solar energy system's rated size.2    (e) An electricity provider shall not be liable for any 3damage or injury caused solely by an eligible customer's 4plug-in solar energy system.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3104 Illinois General Assembly ILGA.GOV SB3104 - 104th General Assembly Sen. Rachel VenturaFiled: 3/6/2026   10400SB3104sam003LRB104 18293 AAS 35198 a1AMENDMENT TO SENATE BILL 3104 2    AMENDMENT NO. ______. Amend Senate Bill 3104, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 7, by replacing lines 9 through 13 with the 5following: 6    "(d) Within 30 days after the installation of a plug-in 7solar energy system, the owner of the plug-in solar energy 8system shall notify the electricity provider that serves the 9building in which the plug-in solar energy system was 10installed of the installation. Within 30 days after"; and 11by replacing line 20 on page 7 through line 2 on page 8 with 12the following: 13        "(2) the service address and utility account number 14    associated with the address at which the plug-in solar 15    energy system was installed;16        (3) the plug-in solar energy system's make and model; 17    and  10400SB3104sam003- 2 -LRB104 18293 AAS 35198 a1        (4) the plug-in solar energy system's rated size.2    (e) An electricity provider shall not be liable for any 3damage or injury caused solely by an eligible customer's 4plug-in solar energy system.".
