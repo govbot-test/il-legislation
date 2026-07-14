@@ -1,0 +1,16 @@
+Title: Full Text of SB2796
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2796 Illinois General Assembly ILGA.GOV SB2796 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2796 Introduced 1/13/2026, by Sen. Michael W. Halpin SYNOPSIS AS INTRODUCED: 405 ILCS 5/3-807  from Ch. 91 1/2, par. 3-807    Amends the Mental Health and Developmental Disabilities Code. Removes a requirement that at least one mental health examiner testify in person at an involuntary admission hearing.LRB104 17170 KTG 30589 b  A BILL FOR SB2796LRB104 17170 KTG 30589 b1    AN ACT concerning mental health. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Mental Health and Developmental 5Disabilities Code is amended by changing Section 3-807 as 6follows: 7    (405 ILCS 5/3-807)  (from Ch. 91 1/2, par. 3-807)8    Sec. 3-807. No respondent may be found subject to 9involuntary admission on an inpatient or outpatient basis 10unless at least one psychiatrist, clinical social worker, 11clinical psychologist, advanced practice psychiatric nurse, or 12qualified examiner who has examined the respondent testifies 13in person at the hearing. The respondent may waive the 14requirement of the testimony subject to the approval of the 15court.16(Source: P.A. 101-587, eff. 1-1-20.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2796 Illinois General Assembly ILGA.GOV SB2796 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2796 Introduced 1/13/2026, by Sen. Michael W. Halpin SYNOPSIS AS INTRODUCED: 405 ILCS 5/3-807  from Ch. 91 1/2, par. 3-807    Amends the Mental Health and Developmental Disabilities Code. Removes a requirement that at least one mental health examiner testify in person at an involuntary admission hearing.LRB104 17170 KTG 30589 b  A BILL FOR SB2796LRB104 17170 KTG 30589 b1    AN ACT concerning mental health. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Mental Health and Developmental 5Disabilities Code is amended by changing Section 3-807 as 6follows: 7    (405 ILCS 5/3-807)  (from Ch. 91 1/2, par. 3-807)8    Sec. 3-807. No respondent may be found subject to 9involuntary admission on an inpatient or outpatient basis 10unless at least one psychiatrist, clinical social worker, 11clinical psychologist, advanced practice psychiatric nurse, or 12qualified examiner who has examined the respondent testifies 13in person at the hearing. The respondent may waive the 14requirement of the testimony subject to the approval of the 15court.16(Source: P.A. 101-587, eff. 1-1-20.)

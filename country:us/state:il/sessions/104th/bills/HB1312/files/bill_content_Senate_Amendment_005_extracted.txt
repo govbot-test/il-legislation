@@ -1,0 +1,16 @@
+Title: Full Text of HB1312
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 005
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1312 Illinois General Assembly ILGA.GOV HB1312 - 104th General Assembly Sen. Don HarmonFiled: 10/30/2025   10400HB1312sam005LRB104 03042 JDS 29564 a1AMENDMENT TO HOUSE BILL 13122    AMENDMENT NO. ______. Amend House Bill 1312, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 2, by replacing line 23 with the following:5"liability.6    (a) Any person may bring a civil action against any"; and 7on page 3, immediately below line 5, by inserting the 8following:9    "(b) Qualified immunity is a defense to liability under 10this Act."; and 11on page 16, line 20, by replacing "defense" with "defense, 12including any existing qualified immunity defense,"; and 13on page 16, by replacing lines 22 through 25 with the 14following:15"any Illinois court system personnel acting lawfully."; and   10400HB1312sam005- 2 -LRB104 03042 JDS 29564 a1on page 17, by replacing lines 18 through 22 with the 2following:3    ""Law enforcement agent" means an agent of federal, State, 4or local law enforcement authorized with the power to arrest 5or detain individuals, or manage the custody of detained 6individuals, for civil immigration enforcement."; and 7on page 25, by replacing lines 3 and 4 with the following:8"or detain individuals, or manage the custody of detained 9individuals, for civil"; and 10on page 32, by replacing lines 16 and 17 with the following:11"or detain individuals, or manage the custody of detained 12individuals, for civil".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1312 Illinois General Assembly ILGA.GOV HB1312 - 104th General Assembly Sen. Don HarmonFiled: 10/30/2025   10400HB1312sam005LRB104 03042 JDS 29564 a1AMENDMENT TO HOUSE BILL 13122    AMENDMENT NO. ______. Amend House Bill 1312, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 2, by replacing line 23 with the following:5"liability.6    (a) Any person may bring a civil action against any"; and 7on page 3, immediately below line 5, by inserting the 8following:9    "(b) Qualified immunity is a defense to liability under 10this Act."; and 11on page 16, line 20, by replacing "defense" with "defense, 12including any existing qualified immunity defense,"; and 13on page 16, by replacing lines 22 through 25 with the 14following:15"any Illinois court system personnel acting lawfully."; and   10400HB1312sam005- 2 -LRB104 03042 JDS 29564 a1on page 17, by replacing lines 18 through 22 with the 2following:3    ""Law enforcement agent" means an agent of federal, State, 4or local law enforcement authorized with the power to arrest 5or detain individuals, or manage the custody of detained 6individuals, for civil immigration enforcement."; and 7on page 25, by replacing lines 3 and 4 with the following:8"or detain individuals, or manage the custody of detained 9individuals, for civil"; and 10on page 32, by replacing lines 16 and 17 with the following:11"or detain individuals, or manage the custody of detained 12individuals, for civil".

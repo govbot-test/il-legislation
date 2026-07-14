@@ -1,0 +1,16 @@
+Title: Full Text of SB3235
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3235 Illinois General Assembly ILGA.GOV SB3235 - 104th General Assembly Sen. Bill CunninghamFiled: 3/31/2026   10400SB3235sam001LRB104 18759 CCC 35991 a1AMENDMENT TO SENATE BILL 32352    AMENDMENT NO. ______. Amend Senate Bill 3235 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Real Estate Appraiser Licensing Act of 52002 is amended by adding Section 10-25 as follows: 6    (225 ILCS 458/10-25 new)7    Sec. 10-25. Data collection in real estate appraisals. 8    (a) In this Section, "data collection" means inspecting 9and collecting data and pictures of a specific tract of real 10estate for an appraisal management company or mortgage lender, 11with the intent that the data and information will be provided 12to an appraiser as the sole basis for preparing an appraisal to 13support a mortgage on the real estate.14    (b) A person must be licensed as an appraiser under this 15Act to be hired by an appraisal management company, mortgage 16lender, or any third party for the sole purpose of data   10400SB3235sam001- 2 -LRB104 18759 CCC 35991 a1collection. 2    (c) Nothing in this Section prohibits an individual 3licensed as a home inspector under the Home Inspector License 4Act or an individual licensed as a broker or managing broker 5under the Real Estate License Act of 2000 from engaging in 6activities within the scope of the individual's license.  7    Section 99. Effective date. This Act takes effect upon 8becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3235 Illinois General Assembly ILGA.GOV SB3235 - 104th General Assembly Sen. Bill CunninghamFiled: 3/31/2026   10400SB3235sam001LRB104 18759 CCC 35991 a1AMENDMENT TO SENATE BILL 32352    AMENDMENT NO. ______. Amend Senate Bill 3235 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Real Estate Appraiser Licensing Act of 52002 is amended by adding Section 10-25 as follows: 6    (225 ILCS 458/10-25 new)7    Sec. 10-25. Data collection in real estate appraisals. 8    (a) In this Section, "data collection" means inspecting 9and collecting data and pictures of a specific tract of real 10estate for an appraisal management company or mortgage lender, 11with the intent that the data and information will be provided 12to an appraiser as the sole basis for preparing an appraisal to 13support a mortgage on the real estate.14    (b) A person must be licensed as an appraiser under this 15Act to be hired by an appraisal management company, mortgage 16lender, or any third party for the sole purpose of data   10400SB3235sam001- 2 -LRB104 18759 CCC 35991 a1collection. 2    (c) Nothing in this Section prohibits an individual 3licensed as a home inspector under the Home Inspector License 4Act or an individual licensed as a broker or managing broker 5under the Real Estate License Act of 2000 from engaging in 6activities within the scope of the individual's license.  7    Section 99. Effective date. This Act takes effect upon 8becoming law.".
