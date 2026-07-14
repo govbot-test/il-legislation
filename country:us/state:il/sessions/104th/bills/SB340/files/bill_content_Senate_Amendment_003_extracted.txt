@@ -1,0 +1,16 @@
+Title: Full Text of SB0340
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0340 Illinois General Assembly ILGA.GOV SB0340 - 104th General Assembly Sen. Laura M. MurphyFiled: 5/20/2026   10400SB0340sam003LRB104 06459 JRC 38059 a1AMENDMENT TO SENATE BILL 340 2    AMENDMENT NO. ______. Amend Senate Bill 340, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 19, line 20, after "Act.", by inserting the 5following:6"Notwithstanding any other provision of this Act, if a 7processor processes data under a binding contract that sets 8forth the processing instructions and limits the actions the 9processor may take with respect to the data it processes on 10behalf of the controller, the processor is not liable for the 11controller's actions that led to a violation of this Act.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0340 Illinois General Assembly ILGA.GOV SB0340 - 104th General Assembly Sen. Laura M. MurphyFiled: 5/20/2026   10400SB0340sam003LRB104 06459 JRC 38059 a1AMENDMENT TO SENATE BILL 340 2    AMENDMENT NO. ______. Amend Senate Bill 340, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 19, line 20, after "Act.", by inserting the 5following:6"Notwithstanding any other provision of this Act, if a 7processor processes data under a binding contract that sets 8forth the processing instructions and limits the actions the 9processor may take with respect to the data it processes on 10behalf of the controller, the processor is not liable for the 11controller's actions that led to a violation of this Act.".

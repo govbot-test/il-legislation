@@ -1,0 +1,16 @@
+Title: Full Text of SB0340
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 004
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0340 Illinois General Assembly ILGA.GOV SB0340 - 104th General Assembly Sen. Laura M. MurphyFiled: 5/21/2026   10400SB0340sam004LRB104 06459 JRC 38114 a1AMENDMENT TO SENATE BILL 340 2    AMENDMENT NO. ______. Amend Senate Bill 340, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 16, by replacing lines 16 and 17 with the 5following:6    "17;7        "(20) a nonprofit organization that is established to 8    detect and prevent fraudulent acts in connection with 9    insurance; and10        (21) an air carrier subject to the federal Airline"; 11    and 12on page 78, by replacing lines 20 through 24 with the 13following: 14    "(815 ILCS 505/2MMMM new)15    Sec. 2MMMM. Violations of the Illinois Consumer Data 16Privacy Act.  10400SB0340sam004- 2 -LRB104 06459 JRC 38114 a1    (a) Any person who violates the Illinois Consumer Data 2Privacy Act commits an unlawful practice within the meaning of 3this Act.4    (b) The provisions of Section 10a do not apply to a 5violation of this Section.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0340 Illinois General Assembly ILGA.GOV SB0340 - 104th General Assembly Sen. Laura M. MurphyFiled: 5/21/2026   10400SB0340sam004LRB104 06459 JRC 38114 a1AMENDMENT TO SENATE BILL 340 2    AMENDMENT NO. ______. Amend Senate Bill 340, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 16, by replacing lines 16 and 17 with the 5following:6    "17;7        "(20) a nonprofit organization that is established to 8    detect and prevent fraudulent acts in connection with 9    insurance; and10        (21) an air carrier subject to the federal Airline"; 11    and 12on page 78, by replacing lines 20 through 24 with the 13following: 14    "(815 ILCS 505/2MMMM new)15    Sec. 2MMMM. Violations of the Illinois Consumer Data 16Privacy Act.  10400SB0340sam004- 2 -LRB104 06459 JRC 38114 a1    (a) Any person who violates the Illinois Consumer Data 2Privacy Act commits an unlawful practice within the meaning of 3this Act.4    (b) The provisions of Section 10a do not apply to a 5violation of this Section.".

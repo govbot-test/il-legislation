@@ -1,0 +1,16 @@
+Title: Full Text of SB3545
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3545 Illinois General Assembly ILGA.GOV SB3545 - 104th General Assembly Sen. Michael W. HalpinFiled: 2/27/2026   10400SB3545sam001LRB104 19518 RTM 34921 a1AMENDMENT TO SENATE BILL 3545 2    AMENDMENT NO. ______. Amend Senate Bill 3545 by replacing 3line 4 on page 13 through line 12 on page 14 with the 4following: 5    "Section 10. The Pretrial Services Act is amended by 6adding Section 7.5 as follows: 7    (725 ILCS 185/7.5 new)8    Sec. 7.5. Collaboration. Pretrial services agencies may 9collaborate with the policing bodies of this State, the clerks 10of the circuit court, the sheriffs, and the State's Attorneys 11to assist in maintaining complete and accurate criminal 12records of the Illinois State Police under the Criminal 13Identification Act.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3545 Illinois General Assembly ILGA.GOV SB3545 - 104th General Assembly Sen. Michael W. HalpinFiled: 2/27/2026   10400SB3545sam001LRB104 19518 RTM 34921 a1AMENDMENT TO SENATE BILL 3545 2    AMENDMENT NO. ______. Amend Senate Bill 3545 by replacing 3line 4 on page 13 through line 12 on page 14 with the 4following: 5    "Section 10. The Pretrial Services Act is amended by 6adding Section 7.5 as follows: 7    (725 ILCS 185/7.5 new)8    Sec. 7.5. Collaboration. Pretrial services agencies may 9collaborate with the policing bodies of this State, the clerks 10of the circuit court, the sheriffs, and the State's Attorneys 11to assist in maintaining complete and accurate criminal 12records of the Illinois State Police under the Criminal 13Identification Act.".
