@@ -1,0 +1,16 @@
+Title: Full Text of SB2857
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2857 Illinois General Assembly ILGA.GOV SB2857 - 104th General Assembly Sen. Paul FaraciFiled: 2/23/2026   10400SB2857sam001LRB104 15621 LNS 34541 a1AMENDMENT TO SENATE BILL 2857 2    AMENDMENT NO. ______. Amend Senate Bill 2857 on page 9, by 3replacing lines 16 through 21 with the following:4    "(m) A motor vehicle dealer in this State may, at the 5request of the purchaser, install a front registration plate 6mounting bracket on a motor vehicle that requires a front 7registration plate under Section 3-413. Any such installation 8shall be performed in accordance with the vehicle 9manufacturer's instructions or recommended procedures. A motor 10vehicle dealer who installs a front registration plate 11mounting bracket in accordance with the manufacturer's 12instructions or recommended procedures shall not be liable for 13any damage to the vehicle resulting from the installation, and 14such installation shall not constitute a modification that 15voids or otherwise affects any manufacturer warranty 16applicable to the vehicle. As used in this subsection, "motor 17vehicle dealer" means dealers subject to Section 5-101, 5-102, 18or 5-102.8.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2857 Illinois General Assembly ILGA.GOV SB2857 - 104th General Assembly Sen. Paul FaraciFiled: 2/23/2026   10400SB2857sam001LRB104 15621 LNS 34541 a1AMENDMENT TO SENATE BILL 2857 2    AMENDMENT NO. ______. Amend Senate Bill 2857 on page 9, by 3replacing lines 16 through 21 with the following:4    "(m) A motor vehicle dealer in this State may, at the 5request of the purchaser, install a front registration plate 6mounting bracket on a motor vehicle that requires a front 7registration plate under Section 3-413. Any such installation 8shall be performed in accordance with the vehicle 9manufacturer's instructions or recommended procedures. A motor 10vehicle dealer who installs a front registration plate 11mounting bracket in accordance with the manufacturer's 12instructions or recommended procedures shall not be liable for 13any damage to the vehicle resulting from the installation, and 14such installation shall not constitute a modification that 15voids or otherwise affects any manufacturer warranty 16applicable to the vehicle. As used in this subsection, "motor 17vehicle dealer" means dealers subject to Section 5-101, 5-102, 18or 5-102.8.".

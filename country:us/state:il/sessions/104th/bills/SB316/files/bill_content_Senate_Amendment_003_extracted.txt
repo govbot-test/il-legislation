@@ -1,0 +1,16 @@
+Title: Full Text of SB0316
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0316 Illinois General Assembly ILGA.GOV SB0316 - 104th General Assembly Sen. Laura EllmanFiled: 5/20/2026   10400SB0316sam003LRB104 06437 SPS 38056 a1AMENDMENT TO SENATE BILL 316 2    AMENDMENT NO. ______. Amend Senate Bill 316, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 11, by replacing lines 12 through 15 with the 5following:6        "(4) a chatbot that complies with the Artificial 7    Intelligence Companion Model Safety Act and does not 8    provide therapy or psychotherapy services.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0316 Illinois General Assembly ILGA.GOV SB0316 - 104th General Assembly Sen. Laura EllmanFiled: 5/20/2026   10400SB0316sam003LRB104 06437 SPS 38056 a1AMENDMENT TO SENATE BILL 316 2    AMENDMENT NO. ______. Amend Senate Bill 316, AS AMENDED, 3with reference to page and line numbers of Senate Amendment 4No. 2, on page 11, by replacing lines 12 through 15 with the 5following:6        "(4) a chatbot that complies with the Artificial 7    Intelligence Companion Model Safety Act and does not 8    provide therapy or psychotherapy services.".
