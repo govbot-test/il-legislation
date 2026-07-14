@@ -1,0 +1,16 @@
+Title: Full Text of SB2870
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2870 Illinois General Assembly ILGA.GOV SB2870 - 104th General Assembly Sen. Michael W. HalpinFiled: 3/26/2026   10400SB2870sam002LRB104 16699 JRC 36049 a1AMENDMENT TO SENATE BILL 2870 2    AMENDMENT NO. ______. Amend Senate Bill 2870 on page 3, 3line 23, after "record.", by inserting "This mailing 4requirement does not apply to a party's attorney or a party's 5other agent, or a self-represented litigant who has elected to 6use an agency's electronic filing system or has accepted 7service by email, when the decision or order is made available 8for electronic retrieval through an electronic filing system 9or has been served by email as otherwise provided by law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2870 Illinois General Assembly ILGA.GOV SB2870 - 104th General Assembly Sen. Michael W. HalpinFiled: 3/26/2026   10400SB2870sam002LRB104 16699 JRC 36049 a1AMENDMENT TO SENATE BILL 2870 2    AMENDMENT NO. ______. Amend Senate Bill 2870 on page 3, 3line 23, after "record.", by inserting "This mailing 4requirement does not apply to a party's attorney or a party's 5other agent, or a self-represented litigant who has elected to 6use an agency's electronic filing system or has accepted 7service by email, when the decision or order is made available 8for electronic retrieval through an electronic filing system 9or has been served by email as otherwise provided by law.".

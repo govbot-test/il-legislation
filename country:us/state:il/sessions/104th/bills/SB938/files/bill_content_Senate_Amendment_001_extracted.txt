@@ -1,0 +1,16 @@
+Title: Full Text of SB0938
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0938 Illinois General Assembly ILGA.GOV SB0938 - 104th General Assembly Sen. Sue RezinFiled: 4/29/2026   10400SB0938sam001LRB104 05245 AAS 36758 a1AMENDMENT TO SENATE BILL 938 2    AMENDMENT NO. ______. Amend Senate Bill 938 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Public Higher Education Act is amended by 5adding Section 21 as follows: 6    (110 ILCS 167/21 new)7    Sec. 21. Prohibition on release of student information; 8third party voter registration activities.9    (a) A public institution of higher education may not 10release the personally identifiable information of any of its 11students to a third party that engages in voter registration 12activities. 13    (b) If a public institution of higher education violates 14this Section, the public institution of higher education is 15not entitled to State funding for the next fiscal year.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0938 Illinois General Assembly ILGA.GOV SB0938 - 104th General Assembly Sen. Sue RezinFiled: 4/29/2026   10400SB0938sam001LRB104 05245 AAS 36758 a1AMENDMENT TO SENATE BILL 938 2    AMENDMENT NO. ______. Amend Senate Bill 938 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Public Higher Education Act is amended by 5adding Section 21 as follows: 6    (110 ILCS 167/21 new)7    Sec. 21. Prohibition on release of student information; 8third party voter registration activities.9    (a) A public institution of higher education may not 10release the personally identifiable information of any of its 11students to a third party that engages in voter registration 12activities. 13    (b) If a public institution of higher education violates 14this Section, the public institution of higher education is 15not entitled to State funding for the next fiscal year.".
