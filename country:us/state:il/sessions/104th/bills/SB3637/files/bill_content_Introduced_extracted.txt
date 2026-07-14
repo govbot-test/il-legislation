@@ -1,0 +1,16 @@
+Title: Full Text of SB3637
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3637 Illinois General Assembly ILGA.GOV SB3637 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB3637 Introduced 2/5/2026, by Sen. Kimberly A. Lightford SYNOPSIS AS INTRODUCED: 305 ILCS 5/5-54 new    Amends the Illinois Public Aid Code. Requires the medical assistance program to provide coverage and reimbursement for a prescribed proteomic blood test to identify and manage the risk of spontaneous preterm birth in pregnant persons. Provides that the test results shall be used to assign care management services and other appropriate interventions to manage risk, prolong pregnancy, and improve outcomes.LRB104 20190 BAB 33641 b  A BILL FOR SB3637LRB104 20190 BAB 33641 b1    AN ACT concerning public aid. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Public Aid Code is amended by 5adding Section 5-54 as follows: 6    (305 ILCS 5/5-54 new)7    Sec. 5-54. Coverage for proteomic blood tests.8    (a) The medical assistance program shall provide coverage 9and reimbursement for a prescribed proteomic blood test to 10identify and manage the risk of spontaneous preterm birth in 11pregnant persons. 12    (b) The test results shall be used to assign care 13management services and other appropriate interventions to 14manage risk, prolong pregnancy, and improve outcomes.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3637 Illinois General Assembly ILGA.GOV SB3637 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB3637 Introduced 2/5/2026, by Sen. Kimberly A. Lightford SYNOPSIS AS INTRODUCED: 305 ILCS 5/5-54 new    Amends the Illinois Public Aid Code. Requires the medical assistance program to provide coverage and reimbursement for a prescribed proteomic blood test to identify and manage the risk of spontaneous preterm birth in pregnant persons. Provides that the test results shall be used to assign care management services and other appropriate interventions to manage risk, prolong pregnancy, and improve outcomes.LRB104 20190 BAB 33641 b  A BILL FOR SB3637LRB104 20190 BAB 33641 b1    AN ACT concerning public aid. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Public Aid Code is amended by 5adding Section 5-54 as follows: 6    (305 ILCS 5/5-54 new)7    Sec. 5-54. Coverage for proteomic blood tests.8    (a) The medical assistance program shall provide coverage 9and reimbursement for a prescribed proteomic blood test to 10identify and manage the risk of spontaneous preterm birth in 11pregnant persons. 12    (b) The test results shall be used to assign care 13management services and other appropriate interventions to 14manage risk, prolong pregnancy, and improve outcomes.

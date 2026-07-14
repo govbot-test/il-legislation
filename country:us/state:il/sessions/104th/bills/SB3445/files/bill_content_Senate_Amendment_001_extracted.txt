@@ -1,0 +1,16 @@
+Title: Full Text of SB3445
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3445 Illinois General Assembly ILGA.GOV SB3445 - 104th General Assembly Sen. Bill CunninghamFiled: 4/13/2026   10400SB3445sam001LRB104 18158 BAB 36201 a1AMENDMENT TO SENATE BILL 3445 2    AMENDMENT NO. ______. Amend Senate Bill 3445 on page 4, by 3replacing lines 10 through 13 with the following:4"physician assistant, or registered nurse. A certified 5dialysis technician shall not be permitted to administer 6heparin and saline to a patient with a central venous 7catheter.8    Additionally, the following conditions must be present:9        (1) the RN or APRN must complete an assessment of the 10    patient's nursing care needs prior to the delegation and 11    make modifications to the patient's nursing care needs 12    during the course of dialysis treatment to address any 13    patient problems and complications;".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3445 Illinois General Assembly ILGA.GOV SB3445 - 104th General Assembly Sen. Bill CunninghamFiled: 4/13/2026   10400SB3445sam001LRB104 18158 BAB 36201 a1AMENDMENT TO SENATE BILL 3445 2    AMENDMENT NO. ______. Amend Senate Bill 3445 on page 4, by 3replacing lines 10 through 13 with the following:4"physician assistant, or registered nurse. A certified 5dialysis technician shall not be permitted to administer 6heparin and saline to a patient with a central venous 7catheter.8    Additionally, the following conditions must be present:9        (1) the RN or APRN must complete an assessment of the 10    patient's nursing care needs prior to the delegation and 11    make modifications to the patient's nursing care needs 12    during the course of dialysis treatment to address any 13    patient problems and complications;".
