@@ -1,0 +1,16 @@
+Title: Full Text of SB3401
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3401 Illinois General Assembly ILGA.GOV SB3401 - 104th General Assembly Rep. Kam BucknerFiled: 5/8/2026   10400SB3401ham001LRB104 18964 JRC 37481 a1AMENDMENT TO SENATE BILL 3401 2    AMENDMENT NO. ______. Amend Senate Bill 3401 on page 25, 3by inserting immediately below line 11 the following:4        "(A) identifies each structural, mechanical, 5    electrical, and plumbing component of the common areas and 6    any other components that are the responsibility of the 7    association to maintain, repair, and replace;8        (B) states the normal useful life and the estimated 9    remaining useful life of each identified component;10        (C) states the estimated cost of maintenance, repair, 11    or replacement of each identified component; and12        (D) states the estimated annual reserve amount 13    necessary to accomplish any identified future maintenance, 14    repair, or replacement."; and  15on page 26, line 26, by replacing "(j)" with "(k)".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3401 Illinois General Assembly ILGA.GOV SB3401 - 104th General Assembly Rep. Kam BucknerFiled: 5/8/2026   10400SB3401ham001LRB104 18964 JRC 37481 a1AMENDMENT TO SENATE BILL 3401 2    AMENDMENT NO. ______. Amend Senate Bill 3401 on page 25, 3by inserting immediately below line 11 the following:4        "(A) identifies each structural, mechanical, 5    electrical, and plumbing component of the common areas and 6    any other components that are the responsibility of the 7    association to maintain, repair, and replace;8        (B) states the normal useful life and the estimated 9    remaining useful life of each identified component;10        (C) states the estimated cost of maintenance, repair, 11    or replacement of each identified component; and12        (D) states the estimated annual reserve amount 13    necessary to accomplish any identified future maintenance, 14    repair, or replacement."; and  15on page 26, line 26, by replacing "(j)" with "(k)".
