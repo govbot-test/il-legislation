@@ -1,0 +1,16 @@
+Title: Full Text of HB0645
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB0645 Illinois General Assembly ILGA.GOV HB0645 - 104th General Assembly Rep. Margaret CrokeFiled: 4/9/2026   10400HB0645ham001LRB104 04532 JRC 34764 a1AMENDMENT TO HOUSE BILL 645 2    AMENDMENT NO. ______. Amend House Bill 645 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Self-Service Storage Facility Act is 5amended by adding Section 10 as follows: 6    (770 ILCS 95/10 new)7    Sec. 10. Renewal of lease; rent increases.8    (a) An owner must provide at least 30 days' notice of any 9proposed rent increase to an occupant.10    (b) An owner must provide at least 30 days' notice that a 11lease may be renewed.12    (c) The notices required under this Section must be 13transmitted by electronic mail.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB0645 Illinois General Assembly ILGA.GOV HB0645 - 104th General Assembly Rep. Margaret CrokeFiled: 4/9/2026   10400HB0645ham001LRB104 04532 JRC 34764 a1AMENDMENT TO HOUSE BILL 645 2    AMENDMENT NO. ______. Amend House Bill 645 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Self-Service Storage Facility Act is 5amended by adding Section 10 as follows: 6    (770 ILCS 95/10 new)7    Sec. 10. Renewal of lease; rent increases.8    (a) An owner must provide at least 30 days' notice of any 9proposed rent increase to an occupant.10    (b) An owner must provide at least 30 days' notice that a 11lease may be renewed.12    (c) The notices required under this Section must be 13transmitted by electronic mail.".

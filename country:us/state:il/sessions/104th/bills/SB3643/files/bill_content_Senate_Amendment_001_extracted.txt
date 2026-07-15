@@ -1,0 +1,16 @@
+Title: Full Text of SB3643
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3643 Illinois General Assembly ILGA.GOV SB3643 - 104th General Assembly Sen. Mike PorfirioFiled: 2/19/2026   10400SB3643sam001LRB104 18370 BDA 34455 a1AMENDMENT TO SENATE BILL 36432    AMENDMENT NO. ______. Amend Senate Bill 3643 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Nuclear Safety Law of 2004 is amended by 5adding Section 95 as follows: 6    (20 ILCS 3310/95 new)7    Sec. 95. Right of entry.8    (a) As used in this Section, "disaster" and "incident" 9have the meanings given to those terms in Section 4 of the 10Illinois Emergency Management Agency Act.11    (b) IEMA-OHS has the right to enter on public and private 12property in order to take environmental samples in response to 13a disaster or incident that causes, or threatens to cause, 14radioactive contamination. 15    Section 99. Effective date. This Act takes effect upon   10400SB3643sam001- 2 -LRB104 18370 BDA 34455 a1becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3643 Illinois General Assembly ILGA.GOV SB3643 - 104th General Assembly Sen. Mike PorfirioFiled: 2/19/2026   10400SB3643sam001LRB104 18370 BDA 34455 a1AMENDMENT TO SENATE BILL 36432    AMENDMENT NO. ______. Amend Senate Bill 3643 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Nuclear Safety Law of 2004 is amended by 5adding Section 95 as follows: 6    (20 ILCS 3310/95 new)7    Sec. 95. Right of entry.8    (a) As used in this Section, "disaster" and "incident" 9have the meanings given to those terms in Section 4 of the 10Illinois Emergency Management Agency Act.11    (b) IEMA-OHS has the right to enter on public and private 12property in order to take environmental samples in response to 13a disaster or incident that causes, or threatens to cause, 14radioactive contamination. 15    Section 99. Effective date. This Act takes effect upon   10400SB3643sam001- 2 -LRB104 18370 BDA 34455 a1becoming law.".
