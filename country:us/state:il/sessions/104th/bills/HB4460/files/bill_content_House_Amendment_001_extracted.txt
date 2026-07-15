@@ -1,0 +1,16 @@
+Title: Full Text of HB4460
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB4460 Illinois General Assembly ILGA.GOV HB4460 - 104th General Assembly Rep. Amy BrielFiled: 4/14/2026   10400HB4460ham001LRB104 16811 BAB 36261 a1AMENDMENT TO HOUSE BILL 4460 2    AMENDMENT NO. ______. Amend House Bill 4460 on page 1, by 3replacing lines 6 through 10 with the following: 4    "(210 ILCS 85/6.14i new)5    Sec. 6.14i. Out-of-network patient transfers. 6    (a) Upon request by a patient, a hospital must transfer 7the patient to the requested health care facility, regardless 8of whether the facility is part of the hospital's health care 9network.10    (b) A hospital may not implement a policy that prohibits 11the transfer of patients outside of the hospital's health care 12network.13    (c) A hospital may not retaliate or take any adverse 14action against an employee or agent of the hospital, including 15a physician, who facilitates the out-of-network transfer of a 16patient.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB4460 Illinois General Assembly ILGA.GOV HB4460 - 104th General Assembly Rep. Amy BrielFiled: 4/14/2026   10400HB4460ham001LRB104 16811 BAB 36261 a1AMENDMENT TO HOUSE BILL 4460 2    AMENDMENT NO. ______. Amend House Bill 4460 on page 1, by 3replacing lines 6 through 10 with the following: 4    "(210 ILCS 85/6.14i new)5    Sec. 6.14i. Out-of-network patient transfers. 6    (a) Upon request by a patient, a hospital must transfer 7the patient to the requested health care facility, regardless 8of whether the facility is part of the hospital's health care 9network.10    (b) A hospital may not implement a policy that prohibits 11the transfer of patients outside of the hospital's health care 12network.13    (c) A hospital may not retaliate or take any adverse 14action against an employee or agent of the hospital, including 15a physician, who facilitates the out-of-network transfer of a 16patient.".

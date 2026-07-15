@@ -1,0 +1,16 @@
+Title: Full Text of SB3565
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3565 Illinois General Assembly ILGA.GOV SB3565 - 104th General Assembly Sen. Ram VillivalamFiled: 2/19/2026   10400SB3565sam001LRB104 17832 KTG 34309 a1AMENDMENT TO SENATE BILL 3565 2    AMENDMENT NO. ______. Amend Senate Bill 3565 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Public Aid Code is amended by 5changing Section 9-15 as follows: 6    (305 ILCS 5/9-15)7    Sec. 9-15. Township food pantries. In addition to 8financial aid provided to persons eligible therefor under 9Article VI of this Code, in a county under township 10organization, a township may provide, from moneys received and 11collected for public aid to all persons eligible therefor 12under Article VI of this Code, funds, may establish and 13administer food banks, food pantries, and programs for 14providing in-kind aid in meeting basic maintenance 15requirements, including, but not limited to, food, paper 16goods, toiletries, and clothing, to persons who are poor,   10400SB3565sam001- 2 -LRB104 17832 KTG 34309 a1indigent, homeless, or in need of immediate assistance 2regardless of their eligibility , in addition to financial aid 3provided under this Code.4(Source: P.A. 101-309, eff. 1-1-20.)".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3565 Illinois General Assembly ILGA.GOV SB3565 - 104th General Assembly Sen. Ram VillivalamFiled: 2/19/2026   10400SB3565sam001LRB104 17832 KTG 34309 a1AMENDMENT TO SENATE BILL 3565 2    AMENDMENT NO. ______. Amend Senate Bill 3565 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Public Aid Code is amended by 5changing Section 9-15 as follows: 6    (305 ILCS 5/9-15)7    Sec. 9-15. Township food pantries. In addition to 8financial aid provided to persons eligible therefor under 9Article VI of this Code, in a county under township 10organization, a township may provide, from moneys received and 11collected for public aid to all persons eligible therefor 12under Article VI of this Code, funds, may establish and 13administer food banks, food pantries, and programs for 14providing in-kind aid in meeting basic maintenance 15requirements, including, but not limited to, food, paper 16goods, toiletries, and clothing, to persons who are poor,   10400SB3565sam001- 2 -LRB104 17832 KTG 34309 a1indigent, homeless, or in need of immediate assistance 2regardless of their eligibility , in addition to financial aid 3provided under this Code.4(Source: P.A. 101-309, eff. 1-1-20.)".

@@ -1,0 +1,16 @@
+Title: Full Text of SB3086
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3086 Illinois General Assembly ILGA.GOV SB3086 - 104th General Assembly Sen. Ram VillivalamFiled: 3/10/2026   10400SB3086sam001LRB104 17721 SPS 35255 a1AMENDMENT TO SENATE BILL 3086 2    AMENDMENT NO. ______. Amend Senate Bill 3086 by replacing 3line 19 on page 8 through line 3 on page 9 with the following:4        "(9.5) Pooled investment trusts that are registered as 5    an open-end investment company with the Securities and 6    Exchange Commission and with voting trustees that are 7    officers or employees of a national labor federation, or 8    any member unions thereof, with assets exceeding 9    $1,000,000,000 if: (i) the purchases do not exceed 5% of 10    the issuers' total assets; (ii) no more than 1% of the 11    public agency's funds are invested in the pooled 12    investment trust; and (iii) the issuer has not been placed 13    on the list of restricted companies by the Illinois 14    Investment Policy Board under Section 1-110.16 of the 15    Illinois Pension Code.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3086 Illinois General Assembly ILGA.GOV SB3086 - 104th General Assembly Sen. Ram VillivalamFiled: 3/10/2026   10400SB3086sam001LRB104 17721 SPS 35255 a1AMENDMENT TO SENATE BILL 3086 2    AMENDMENT NO. ______. Amend Senate Bill 3086 by replacing 3line 19 on page 8 through line 3 on page 9 with the following:4        "(9.5) Pooled investment trusts that are registered as 5    an open-end investment company with the Securities and 6    Exchange Commission and with voting trustees that are 7    officers or employees of a national labor federation, or 8    any member unions thereof, with assets exceeding 9    $1,000,000,000 if: (i) the purchases do not exceed 5% of 10    the issuers' total assets; (ii) no more than 1% of the 11    public agency's funds are invested in the pooled 12    investment trust; and (iii) the issuer has not been placed 13    on the list of restricted companies by the Illinois 14    Investment Policy Board under Section 1-110.16 of the 15    Illinois Pension Code.".
