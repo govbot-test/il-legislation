@@ -1,0 +1,16 @@
+Title: Full Text of SB3268
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3268 Illinois General Assembly ILGA.GOV SB3268 - 104th General Assembly Sen. Laura EllmanFiled: 3/4/2026   10400SB3268sam001LRB104 18404 JRC 35136 a1AMENDMENT TO SENATE BILL 32682    AMENDMENT NO. ______. Amend Senate Bill 3268 as follows: 3on page 4, line 5, by deleting "or photo"; and 4on page 4, line 7, after "platform." by inserting "All remote 5inspections must be evaluated by a qualified inspector. If the 6qualified inspector observes evidence of a safety hazard in 7the remote inspection, then the qualified inspector may deem 8the remote inspection to have failed.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3268 Illinois General Assembly ILGA.GOV SB3268 - 104th General Assembly Sen. Laura EllmanFiled: 3/4/2026   10400SB3268sam001LRB104 18404 JRC 35136 a1AMENDMENT TO SENATE BILL 32682    AMENDMENT NO. ______. Amend Senate Bill 3268 as follows: 3on page 4, line 5, by deleting "or photo"; and 4on page 4, line 7, after "platform." by inserting "All remote 5inspections must be evaluated by a qualified inspector. If the 6qualified inspector observes evidence of a safety hazard in 7the remote inspection, then the qualified inspector may deem 8the remote inspection to have failed.".

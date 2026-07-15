@@ -1,0 +1,16 @@
+Title: Full Text of SB3268
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 003
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB3268 Illinois General Assembly ILGA.GOV SB3268 - 104th General Assembly Sen. Laura EllmanFiled: 3/6/2026   10400SB3268sam003LRB104 18404 JRC 35289 a1AMENDMENT TO SENATE BILL 3268 2    AMENDMENT NO. ______. Amend Senate Bill 3268 on page 2, 3line 19, by inserting after "documents." the following:4"If a residential automatic solar permitting platform is (1) 5incapable of assessing permitting parameters that a 6municipality or county requires as of the effective date of 7this Act for in-person inspections; or (2) is so cost 8prohibitive that it would impose a significant financial 9hardship on the county or municipality, then the county or 10municipality is excused from adopting the residential 11automatic solar permitting platform.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB3268 Illinois General Assembly ILGA.GOV SB3268 - 104th General Assembly Sen. Laura EllmanFiled: 3/6/2026   10400SB3268sam003LRB104 18404 JRC 35289 a1AMENDMENT TO SENATE BILL 3268 2    AMENDMENT NO. ______. Amend Senate Bill 3268 on page 2, 3line 19, by inserting after "documents." the following:4"If a residential automatic solar permitting platform is (1) 5incapable of assessing permitting parameters that a 6municipality or county requires as of the effective date of 7this Act for in-person inspections; or (2) is so cost 8prohibitive that it would impose a significant financial 9hardship on the county or municipality, then the county or 10municipality is excused from adopting the residential 11automatic solar permitting platform.".
