@@ -48,6 +48,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:32:18Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Craig Wilcox",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Chris Balkema",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,6 +77,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jil Tracy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Wilcox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Craig Wilcox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Balkema",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Chris Balkema\"}",
       "organization_id": null
     }
   ],
@@ -94,7 +130,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:32:18Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T22:16:38.227408Z"
   }
 }

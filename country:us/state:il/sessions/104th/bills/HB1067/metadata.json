@@ -148,6 +148,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:31:51Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Scott Doody",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +248,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott Doody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Doody\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -274,7 +292,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:31:51Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T10:29:03.745283Z"
   }
 }

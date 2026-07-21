@@ -48,6 +48,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:31:55Z"
       }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,6 +67,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe C. Sosnowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norine K. Hammond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Norine K. Hammond\"}",
       "organization_id": null
     }
   ],
@@ -94,7 +112,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:31:55Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T15:18:05.581920Z"
   }
 }

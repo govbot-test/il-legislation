@@ -747,13 +747,13 @@
       }
     },
     {
-      "description": "Added as Alternate Co-Sponsor Sen. Napoleon Harris, III",
+      "description": "Added as Alternate Co-Sponsor Sen. Napoleon Harris III",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T23:31:51Z"
+        "log_file_created": "2026-07-21T07:57:44Z"
       }
     },
     {
@@ -997,6 +997,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T23:31:51Z"
+      }
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. Adriane Johnson",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
       }
     }
   ],
@@ -1418,6 +1428,14 @@
       "organization_id": null
     },
     {
+      "name": "Adriane Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Laura Ellman",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -1434,11 +1452,11 @@
       "organization_id": null
     },
     {
-      "name": "Napoleon Harris, III",
+      "name": "Napoleon Harris III",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Napoleon Harris, III\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Napoleon Harris III\"}",
       "organization_id": null
     },
     {
@@ -1606,7 +1624,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:31:51Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T21:53:03.295658Z"
   }
 }

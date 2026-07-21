@@ -90,6 +90,16 @@
       }
     },
     {
+      "description": "Removed Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
+    },
+    {
       "description": "Added Co-Sponsor Rep. Christopher \"C.D.\" Davidsmeyer",
       "date": "2026-03-18",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -117,6 +127,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T23:31:55Z"
+      }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
       }
     }
   ],
@@ -220,7 +240,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:31:55Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T14:55:41.265575Z"
   }
 }

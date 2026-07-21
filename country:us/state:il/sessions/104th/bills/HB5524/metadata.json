@@ -1018,6 +1018,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:32:12Z"
       }
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Craig Wilcox",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:57:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1444,6 +1454,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Chris Balkema\"}",
       "organization_id": null
+    },
+    {
+      "name": "Craig Wilcox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Craig Wilcox\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -1552,7 +1570,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:32:12Z",
+    "logs_latest_update": "2026-07-21T07:57:44Z",
     "text_extraction_latest_update": "2026-07-14T14:35:24.685260Z"
   }
 }
