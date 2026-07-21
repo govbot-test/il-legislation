@@ -1,0 +1,77 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HR996",
+  "title": "MEMORIAL-BISHOP JAMES AUSTIN",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-il-104th-hr996"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Jawaharial Williams",
+      "date": "2026-07-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jawaharial Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jawaharial Williams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HR/PDF/10400HR0996.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=211523&DocName=10400HR0996&DocNum=996&DocTypeID=HR&LegID=168805&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=996&GAID=18&DocTypeID=HR&LegId=168805&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T08:19:22Z"
+  }
+}

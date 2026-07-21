@@ -288,6 +288,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:32:07Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Scott Doody",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -490,6 +500,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chris Miller\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott Doody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Doody\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -526,7 +544,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:32:07Z",
+    "logs_latest_update": "2026-07-21T08:19:22Z",
     "text_extraction_latest_update": "2026-07-14T11:16:28.248700Z"
   }
 }

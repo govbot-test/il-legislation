@@ -58,6 +58,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T23:32:06Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Scott Doody",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -75,6 +95,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jackie Haas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Doody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Doody\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
       "organization_id": null
     }
   ],
@@ -112,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:32:06Z",
+    "logs_latest_update": "2026-07-21T08:19:22Z",
     "text_extraction_latest_update": "2026-07-14T12:25:35.135475Z"
   }
 }

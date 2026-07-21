@@ -994,6 +994,18 @@
       }
     },
     {
+      "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4(a)",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
+      }
+    },
+    {
       "description": "Senate Committee Amendment No. 2 Tabled Pursuant to Rule 5-4(a)",
       "date": "2026-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1003,6 +1015,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T23:31:54Z"
+      }
+    },
+    {
+      "description": "Senate Committee Amendment No. 3 Tabled Pursuant to Rule 5-4(a)",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:19:22Z"
       }
     },
     {
@@ -1278,13 +1302,13 @@
       }
     },
     {
-      "description": "Added as Alternate Co-Sponsor Sen. Napoleon Harris, III",
+      "description": "Added as Alternate Co-Sponsor Sen. Napoleon Harris III",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T23:31:54Z"
+        "log_file_created": "2026-07-21T08:19:22Z"
       }
     },
     {
@@ -1814,11 +1838,11 @@
       "organization_id": null
     },
     {
-      "name": "Napoleon Harris, III",
+      "name": "Napoleon Harris III",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Napoleon Harris, III\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Napoleon Harris III\"}",
       "organization_id": null
     }
   ],
@@ -1961,7 +1985,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T23:31:54Z",
+    "logs_latest_update": "2026-07-21T08:19:22Z",
     "text_extraction_latest_update": "2026-07-15T00:36:58.680658Z"
   }
 }
